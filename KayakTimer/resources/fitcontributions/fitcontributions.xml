@@ -1,0 +1,5 @@
+<fitContributions>
+ <fitField id="0" displayInActivityLaps="true" sortOrder = "0" precision="0"
+    dataLabel="@Strings.toque"
+    unitLabel="@Strings.toques"  />    
+</fitContributions>
