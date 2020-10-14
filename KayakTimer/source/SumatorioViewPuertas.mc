@@ -107,17 +107,89 @@ class SumatorioViewPuertas extends Ui.View {
     	
     if( sumatorio2.seguir == false){
     
-    	 topText(puertasString(), dc);
+    	if(puertas2 > 1){
+    
+    	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+   		topText(puertasString3(), dc);
+    	dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+        topText(puertasString2(), dc);
+        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+        topText(puertasString1(), dc);
+        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
   	 	bottomText(timerLastString(), dc);
-  	 	postMsg(sumatorio2.seguir);
+  	 	} else if(puertas2 == 0){
+  	 	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+   		topText(puertasString60(), dc);
+    	dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_TRANSPARENT);
+        topText(puertasString50(), dc);
+        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+        topText(puertasString40(), dc);
+        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+  	 	bottomText(timerLastString(), dc);
+  	 	} else {
+  	 	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+   		topText(puertasString6(), dc);
+    	dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+        topText(puertasString5(), dc);
+        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+        topText(puertasString4(), dc);
+        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+  	 	bottomText(timerLastString(), dc);
+  	 	
+  	 	}
+  	 	
     
     } else if(sumatorio2.seguir == true){
     
-   		 topText(pressString(), dc);
-  		 bottomText(puertocLastString(), dc);
-  		 postMsg(sumatorio2.seguir);
+    	if (puertas2 == 0){
+    	 topText(pressString(), dc);
+   		 dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_TRANSPARENT);
+         bottomText(puertocLastString3(), dc);
+   		 dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_TRANSPARENT);
+    	 bottomText(puertocLastString2(), dc);
+   		 dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+     	 bottomText(puertocLastString1(), dc);
+    	
+    	} else if(toques ==0){
+    	 topText(pressString(), dc);
+   		 dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+         bottomText(puertocLastString3(), dc);
+   		 dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_TRANSPARENT);
+    	 bottomText(puertocLastString2(), dc);
+   		 dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+     	 bottomText(puertocLastString1(), dc);
+    	
+    	} else {
     
+   		 topText(pressString(), dc);
+   		 dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+         bottomText(puertocLastString3(), dc);
+   		 dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_TRANSPARENT);
+    	 bottomText(puertocLastString2(), dc);
+   		 dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+     	 bottomText(puertocLastString1(), dc);
+     	 
+     	 }
+  		 
+  		 if(toques == 0 && puertas2 == 0){
+  		 topText(pressString(), dc);
+   		 dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_TRANSPARENT);
+         bottomText(puertocLastString3(), dc);
+   		 dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_TRANSPARENT);
+    	 bottomText(puertocLastString2(), dc);
+   		 dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+     	 bottomText(puertocLastString1(), dc);
+  		 
+  		 }
     }
+    
+    if (sumatorio2.otravuelta == true){
+    
+    	topText(otraVuelta(), dc);
+  		 bottomText(finishTraining(), dc);
+    }
+    
+    
     	
    
 }
@@ -132,6 +204,7 @@ class SumatorioViewPuertas extends Ui.View {
   }
 
   function topText(text, dc){
+  	
   	dc.drawText(dc.getWidth()/2, dc.getHeight()*0.1, Gfx.FONT_MEDIUM, text, Gfx.TEXT_JUSTIFY_CENTER);
   }
 
@@ -150,19 +223,76 @@ function largeText(text, dc){
     return "Prev: " + min.format("%02d") + ":" + sec.format("%02d") + ":" + mili.format("%d");
   }
   
-      function puertocLastString(){
-    return "T:" + toques + " " +  "G:" + puertas2;
+  
+   function puertocLastString3(){
+    return "                  " + puertas2;
   }
   
-  function puertasString(){
-  	return "+ " + sumpuertas.format("%02d") + " seconds";
+   function puertocLastString2(){
+    return "  " + toques + "          ";
   }
+  
+   function puertocLastString1(){
+    return "T:     50's:  ";
+  }
+  
+  
+  
+   function puertasString3(){
+	return "         " + "   seconds";
+  }
+  
+  function puertasString2(){
+  	return sumpuertas.format("%02d") + "            ";
+  }
+  
+  
+  function puertasString1(){
+  	  	return "+                      ";
+  }
+  
+  function puertasString6(){
+	return "         " + "seconds";
+  }
+  
+  function puertasString5(){
+  	return sumpuertas.format("%02d") + "            ";
+  }
+  
+    
+  function puertasString4(){
+  	  	return "+                    ";
+  }
+  
+  
+    function puertasString60(){
+	return "       " + "seconds";
+  }
+  
+  function puertasString50(){
+  	return sumpuertas.format("%d") + "            ";
+  }
+  
+    
+  function puertasString40(){
+  	  	return "+                  ";
+  }
+  
+ 
   
    function grabarString(){
   	return "Data saved";
   }
   function pressString(){
-  	return "Finish!";
+  	return "Lap Finished";
+  }
+  
+  function otraVuelta(){
+  	return "Next Lap";
+  }
+  
+    function finishTraining(){
+  	return "Finish Training";
   }
   
   }

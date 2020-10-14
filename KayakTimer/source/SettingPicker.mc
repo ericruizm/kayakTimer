@@ -26,10 +26,12 @@ class SettingPickerView extends Ui.Picker {
 	
 	
 	function onUpdate(dc) {
-		dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_BLACK );
+		dc.setColor( Gfx.COLOR_RED, Gfx.COLOR_BLACK );
     	dc.clear();
     	
   }
+  
+ 
 }
 
 class SettingPickerDelegate extends Ui.PickerDelegate {
@@ -51,7 +53,6 @@ class SettingPickerDelegate extends Ui.PickerDelegate {
 
 	function onAccept(values) {
 		settings[settingsSymbol] = values[0];
-		System.println(settings[settingsSymbol]);
 		next.invoke();
   }
 

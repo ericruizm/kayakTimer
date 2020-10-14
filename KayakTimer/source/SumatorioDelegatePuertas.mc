@@ -24,10 +24,18 @@ class SumatorioDelegatePuertas extends Ui.BehaviorDelegate {
 
   function onSelect() {
   
-  		if(count == 1){
-  
-  			next.invoke();
+  		if (count ==2){
   		
+  			next.invoke();
+  		}
+  
+  		if(count == 1){
+  		
+  			sumatorio2.seguir = null;
+  
+  			sumatorio2.otravuelta = true;
+  			count = 2;
+  			sumatorio2.update();
   		}
   		
   		if(count == 0){
@@ -35,13 +43,18 @@ class SumatorioDelegatePuertas extends Ui.BehaviorDelegate {
   			sumatorio2.seguir = true;
   			count = 1;
   			sumatorio2.update();
-  			postMsg(sumatorio2.seguir);
+  			
   		}
 		
 	}
 
 	function onBack(){
-
+	
+		if(count == 2){
+		model.stopRecording();
+  		model.stopSensor();
+  		Toybox.System.exit();
+  		}
 	}
 	
 }

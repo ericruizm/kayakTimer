@@ -14,6 +14,7 @@ class SumatorioView extends Ui.View {
   var min;
   var sec;
   var mili;
+  var toquesCont;
   
   function initialize(sum, mi, se, mil ) {
   	sumatorio = sum;
@@ -24,6 +25,7 @@ class SumatorioView extends Ui.View {
   	sec = se;
   	mili = mil;
   	toques = sumatorio.TOQUES;
+  	toquesCont = sumatorio.TOQUES;
   
   	sumtoques = toques * 2;
   	
@@ -63,8 +65,27 @@ class SumatorioView extends Ui.View {
     	
     }
     
-    topText(toquesString(), dc);
+    if(toquesCont == 0){
+    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+    topText(toquesString30(), dc);
+    dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_TRANSPARENT);
+    topText(toquesString20(), dc);
+    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+    topText(toquesString10(), dc);
+    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
     bottomText(timerLastString(), dc);
+    } else {
+    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+    topText(toquesString3(), dc);
+    dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_TRANSPARENT);
+    topText(toquesString2(), dc);
+    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+    topText(toquesString1(), dc);
+    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+    bottomText(timerLastString(), dc);
+    
+    
+    }
     
   	}
   	
@@ -75,12 +96,12 @@ class SumatorioView extends Ui.View {
   
   function bottomText(text,dc){
   dc.drawText(dc.getWidth()/2, dc.getHeight()*0.78, Gfx.FONT_SMALL, text, Gfx.TEXT_JUSTIFY_CENTER);
-  dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_BLACK);
+  //dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_BLACK);
   }
 
   function topText(text, dc){
   	dc.drawText(dc.getWidth()/2, dc.getHeight()*0.1, Gfx.FONT_MEDIUM, text, Gfx.TEXT_JUSTIFY_CENTER);
-  	dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_BLACK);
+  	//dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_BLACK);
   }
   
 function largeText(text, dc){
@@ -95,8 +116,33 @@ function largeText(text, dc){
     return "Prev: " + min.format("%02d") + ":" + sec.format("%02d") + ":" + mili.format("%d");
   }
   
-  function toquesString(){
-  	return "+ " + sumtoques.format("%02d") + " seconds";
+  function toquesString3(){
+  	return "         " + "seconds";
   }
+  
+  function toquesString2(){
+  	return sumtoques.format("%02d") + "            ";
+  }
+  
+  
+  function toquesString1(){
+  	return "+                    ";
+  }
+  
+   function toquesString30(){
+  	return "       " + "seconds";
+  }
+  
+  function toquesString20(){
+  	return sumtoques.format("%d") + "            ";
+  }
+  
+  
+  function toquesString10(){
+  	return "+                  ";
+  }
+  
+
+
   
   }

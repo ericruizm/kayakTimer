@@ -6,6 +6,7 @@ using Toybox.FitContributor;
 var settings = {};
 var settings2 = {};
 var model;
+var model2;
 var sumatorio;
 var sumatorio2;
 var goTimePicker;
@@ -50,6 +51,13 @@ class StartView extends Ui.View {
     var timerDelegate = new TimerDelegate(model, self.method(:switchToRoundsSelect));
     Ui.pushView(timerView, timerDelegate, Ui.SLIDE_IMMEDIATE );
   }
+  
+   function switchToTimer2(){
+    model2 = new TimerModel2();
+    var timerView2 = new TimerView(model2);
+    var timerDelegate2 = new TimerDelegate2(model2, self.method(:switchToRoundsSelect));
+    Ui.pushView(timerView2, timerDelegate2, Ui.SLIDE_IMMEDIATE );
+  }
 
   function switchToRoundsSelect(){
     roundsPicker = new SettingPickerView("TOUCHES", [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]);
@@ -73,7 +81,7 @@ class StartView extends Ui.View {
   }
   
   function switchToGoTimeSelect(){
-    goTimePicker = new SettingPickerViewPuertas("GATES", [0, 1, 2, 3, 4, 5]);
+    goTimePicker = new SettingPickerViewPuertas("50's", [0, 1, 2, 3, 4, 5]);
     goTimePickerDelegate = new SettingPickerDelegatePuertas(:goTime, self.method(:addPuertas));
     Ui.pushView(goTimePicker, goTimePickerDelegate, Ui.SLIDE_IMMEDIATE );
     
@@ -90,7 +98,7 @@ class StartView extends Ui.View {
   	model.puertasField.setData(puertas);
   	model.puertasTotalesField.setData(puertas);
   	var sumatorioView2 = new SumatorioViewPuertas(sumatorio2, min, sec, mili, toques);
-  	var sumatorioDelegate2 = new SumatorioDelegatePuertas(sumatorio2, self.method(:finish));
+  	var sumatorioDelegate2 = new SumatorioDelegatePuertas(sumatorio2, self.method(:switchToTimer2));
   	Ui.pushView(sumatorioView2, sumatorioDelegate2, Ui.SLIDE_IMMEDIATE );
   	
   }

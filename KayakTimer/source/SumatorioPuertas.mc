@@ -18,6 +18,7 @@ class SumatorioPuertas{
 	var toquesField;
 	var puertasField;
 	var seguir = false;
+	var otravuelta = false;
 	
 	
 	function postMsg(identifier){
