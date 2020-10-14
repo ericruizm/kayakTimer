@@ -68,17 +68,19 @@ class SumatorioView extends Ui.View {
     
   	}
   	
-  	 function setupDisplay(dc){
+  function setupDisplay(dc){
   	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
     dc.clear();
   }
   
   function bottomText(text,dc){
   dc.drawText(dc.getWidth()/2, dc.getHeight()*0.78, Gfx.FONT_SMALL, text, Gfx.TEXT_JUSTIFY_CENTER);
+  dc.setColor(Gfx.COLOR_GREEN, Gfx.COLOR_BLACK);
   }
 
   function topText(text, dc){
   	dc.drawText(dc.getWidth()/2, dc.getHeight()*0.1, Gfx.FONT_MEDIUM, text, Gfx.TEXT_JUSTIFY_CENTER);
+  	dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_BLACK);
   }
   
 function largeText(text, dc){

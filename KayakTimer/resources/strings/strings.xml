@@ -1,7 +1,10 @@
   
 <strings>
-    <string id="AppName">FitnessTimer</string>
+    <string id="AppName">Kayak Training</string>
     <string id="done">Done! :-)</string>
     <string id="toque">Toques</string>
    	<string id="toques">Toques</string>
+   	<string id="puerta">Puertas</string>
+   	<string id="puertas">Puertas</string>
+   	<string id="nombre">Kayak Training</string>
 </strings>

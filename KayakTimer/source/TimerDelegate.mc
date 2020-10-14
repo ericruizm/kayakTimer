@@ -23,18 +23,18 @@ class TimerDelegate extends Ui.BehaviorDelegate {
 
   function onSelect() {
   
+ 
+  
   		if(count == 2){
 			next.invoke();
-			
-			
-			
+		
 		}
 		if (count == 1){
 			model.stop();
 			//model.stopRecording();
 			model.vuelta();
 			count = 2;
-
+			model.siguiente = true;
 		}
 		
 		if(count == 0){

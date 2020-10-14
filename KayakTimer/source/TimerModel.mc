@@ -43,8 +43,9 @@ class TimerModel{
 	var puertas = null;
 	var toques = null;
 	var toquesField;
-	
-	
+	var toquesTotalesField;
+	var puertasField;
+	var puertasTotalesField;
 
 	hidden var refreshTimer = new Timer.Timer();
 	hidden var backTimer = new Timer.Timer();
@@ -142,9 +143,10 @@ class TimerModel{
            });
         
         session.start(); 
-     	toquesField = session.createField("Touch",0, FitContributor.DATA_TYPE_UINT8, {:mesgType=>FitContributor.MESG_TYPE_LAP, :units=>"touches" });
-   		
-   		
+     	toquesField = session.createField("Touch",2, FitContributor.DATA_TYPE_UINT8, {:mesgType=>FitContributor.MESG_TYPE_LAP, :units=>"touches" });
+   		toquesTotalesField = session.createField("TouchSession",1, FitContributor.DATA_TYPE_UINT8, {:mesgType=>FitContributor.MESG_TYPE_SESSION, :units=>"touches" });
+   		puertasField = session.createField("Gate",3, FitContributor.DATA_TYPE_UINT8, {:mesgType=>FitContributor.MESG_TYPE_LAP, :units=>"gates" });
+   		puertasTotalesField = session.createField("GateSession",4, FitContributor.DATA_TYPE_UINT8, {:mesgType=>FitContributor.MESG_TYPE_SESSION, :units=>"gates" });
         postMsg("Activity recording");          
           
 	}
@@ -188,10 +190,24 @@ class TimerModel{
 			stopBack();
 			usecback = 0;
 		}
+		
+	if (secback == 2){
+	var foo = HAS_TONES && beep(Attention.TONE_KEY);
+	}
+	if (secback == 1){
+	var foo = HAS_TONES && beep(Attention.TONE_KEY);
+	}
+	
+	if (usecback == 0){
+	var foo = HAS_TONES && beep(Attention.TONE_START);
+	}
 		Ui.requestUpdate();
 	}	
+	
+	
+	
 	function startBuzz(){
-		//var foo = HAS_TONES && beep(Attention.TONE_LOUD_BEEP);
+		var foo = HAS_TONES && beep(Attention.TONE_KEY);
 		vibrate(600);
 	}
 

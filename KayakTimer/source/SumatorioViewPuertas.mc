@@ -17,6 +17,14 @@ class SumatorioViewPuertas extends Ui.View {
   var min;
   var sec;
   var mili;
+  var puertas2;
+  
+   function postMsg(identifier){
+	var time = System.getClockTime();
+	if (time != null){
+		System.println(Lang.format("$1$:$2$:$3$   $4$",[time.hour.format("%2.2d"),time.min.format("%2.2d"),time.sec.format("%2.2d"),identifier]));
+		}
+	}
   
  
   
@@ -29,6 +37,7 @@ class SumatorioViewPuertas extends Ui.View {
   	sec = se;
   	mili = mil;
   	puertas = sumatorio2.PUERTAS;
+  	puertas2 = sumatorio2.PUERTAS;
   	toques = toc;
   	
   	
@@ -46,20 +55,37 @@ class SumatorioViewPuertas extends Ui.View {
     View.initialize();
   }
   
-  function onUpdate(dc) {
-  	setupDisplay(dc);
+ function onUpdate(dc) {
+  setupDisplay(dc);
   	
   	if ( puertas == null){
   	largeText(timerString(), dc);
   	}
   	
-    
     if (puertas == 0) {
     	largeText(timerString(), dc);
     } else {
     	secpuertas = (puertas * 50) + segundos;
     	
-    	if(secpuertas > 119){
+    	if(secpuertas > 299){
+    		minutos = minutos + 5;
+    		segundos = secpuertas - 300;
+    		largeText(timerString(), dc);
+    		puertas = 0;
+    	
+    	} else if(secpuertas > 239){
+    		minutos = minutos + 4;
+    		segundos = secpuertas - 240;
+    		largeText(timerString(), dc);
+    		puertas = 0;
+    	
+    	} else if(secpuertas > 179){
+    		minutos = minutos + 3;
+    		segundos = secpuertas - 180;
+    		largeText(timerString(), dc);
+    		puertas = 0;
+    		
+    	} else if(secpuertas > 119){
     		minutos = minutos + 2;
     		segundos = secpuertas - 120;
     		largeText(timerString(), dc);
@@ -75,23 +101,28 @@ class SumatorioViewPuertas extends Ui.View {
     		segundos = secpuertas;
     		largeText(timerString(), dc);
     		puertas = 0;
-    
     	}
     	
     }
+    	
+    if( sumatorio2.seguir == false){
     
- 
+    	 topText(puertasString(), dc);
+  	 	bottomText(timerLastString(), dc);
+  	 	postMsg(sumatorio2.seguir);
     
-     topText(puertasString(), dc);
-  	 bottomText(timerLastString(), dc);
+    } else if(sumatorio2.seguir == true){
     
+   		 topText(pressString(), dc);
+  		 bottomText(puertocLastString(), dc);
+  		 postMsg(sumatorio2.seguir);
     
-    
-   	//Ui.requestUpdate();
-    
-  	}
+    }
+    	
+   
+}
   	
-  	 function setupDisplay(dc){
+  function setupDisplay(dc){
   	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
     dc.clear();
   }
@@ -119,8 +150,12 @@ function largeText(text, dc){
     return "Prev: " + min.format("%02d") + ":" + sec.format("%02d") + ":" + mili.format("%d");
   }
   
+      function puertocLastString(){
+    return "T:" + toques + " " +  "G:" + puertas2;
+  }
+  
   function puertasString(){
-  	return "+ " + sumpuertas.format("%02d") + " sesds";
+  	return "+ " + sumpuertas.format("%02d") + " seconds";
   }
   
    function grabarString(){

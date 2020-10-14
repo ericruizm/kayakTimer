@@ -19,14 +19,16 @@ class TimerView extends Ui.View {
   	
   	if(model.usecback == 3) {
   	 	largeText(timerBack(), dc);
-  	    topText("KAYAK TIMER", dc);
-  	    bottomText("Press Start/Stop", dc);
+  	    topText("START LAP", dc);
+  	    bottomText("Kayak Training", dc);
   	} else if(model.usecback >= 2){
   	    largeText(timerBack(), dc);
   	    topText("READY", dc);
+  	    bottomText("Kayak Training", dc);
   	} else if(model.usecback >= 1){
   	    largeText(timerBack(), dc);
   	    topText("SET", dc);
+  	    bottomText("Kayak Training", dc);
   	}else if (model.siguiente == false) {
   		largeText(timerString(), dc);
   		topText("FINISH", dc);

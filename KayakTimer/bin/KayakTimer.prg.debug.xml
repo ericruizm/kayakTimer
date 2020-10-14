@@ -1,680 +1,751 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
-    <manifest filename="/Users/ericruizm/git/kayakTimer/KayakTimer/manifest.xml"/>
+    <manifest filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/manifest.xml"/>
     <pcToLineNum>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="18" pc="268435456" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="20" pc="268435470" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="21" pc="268435480" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="22" pc="268435490" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="23" pc="268435500" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="24" pc="268435510" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="25" pc="268435520" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="26" pc="268435530" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="28" pc="268435552" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="3" lineNum="30" pc="268435574" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="33" pc="268435593" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="34" pc="268435597" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="36" pc="268435611" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="37" pc="268435624" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="41" pc="268435652" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="42" pc="268435669" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="44" pc="268435697" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="46" pc="268435728" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="47" pc="268435745" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="48" pc="268435767" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="49" pc="268435789" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="50" pc="268435814" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="52" pc="268435830" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="53" pc="268435847" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="54" pc="268435869" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="55" pc="268435891" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="56" pc="268435904" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="59" pc="268435932" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="60" pc="268435948" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="61" pc="268435973" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="66" pc="268435986" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="4" lineNum="67" pc="268436011" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="5" lineNum="71" pc="268436037" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="5" lineNum="72" pc="268436041" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="5" lineNum="73" pc="268436077" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="6" lineNum="76" pc="268436090" symbol="bottomText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="6" lineNum="77" pc="268436094" symbol="bottomText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="7" lineNum="80" pc="268436167" symbol="topText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="7" lineNum="81" pc="268436171" symbol="topText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="8" lineNum="84" pc="268436244" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="8" lineNum="85" pc="268436248" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="9" lineNum="88" pc="268436321" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="9" lineNum="89" pc="268436325" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="10" lineNum="92" pc="268436407" symbol="timerLastString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="10" lineNum="93" pc="268436411" symbol="timerLastString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="11" lineNum="96" pc="268436499" symbol="toquesString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioView.mc" id="11" lineNum="97" pc="268436503" symbol="toquesString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="13" lineNum="10" pc="268436539" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="13" lineNum="11" pc="268436543" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="13" lineNum="12" pc="268436553" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="13" lineNum="13" pc="268436563" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="13" lineNum="15" pc="268436573" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="14" lineNum="18" pc="268436592" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="14" lineNum="19" pc="268436596" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="14" lineNum="20" pc="268436610" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="15" lineNum="23" pc="268436636" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="15" lineNum="24" pc="268436640" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="16" lineNum="27" pc="268436713" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/finishView.mc" id="16" lineNum="28" pc="268436717" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Sumatorio.mc" id="18" lineNum="12" pc="268436799" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Sumatorio.mc" id="18" lineNum="13" pc="268436803" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="20" lineNum="5" pc="268436820" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="20" lineNum="6" pc="268436824" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="21" lineNum="9" pc="268436843" symbol="onLayout"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="21" lineNum="10" pc="268436847" symbol="onLayout"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="23" lineNum="16" pc="268436885" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="23" lineNum="17" pc="268436889" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="24" lineNum="20" pc="268436908" symbol="onBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/Done.mc" id="24" lineNum="21" pc="268436912" symbol="onBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="26" lineNum="14" pc="268436937" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="26" lineNum="15" pc="268436941" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="26" lineNum="16" pc="268437045" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="27" lineNum="19" pc="268437105" symbol="createNumberPattern"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="27" lineNum="21" pc="268437109" symbol="createNumberPattern"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="27" lineNum="24" pc="268437141" symbol="createNumberPattern"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="28" lineNum="28" pc="268437165" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="28" lineNum="29" pc="268437169" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="28" lineNum="30" pc="268437205" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="28" lineNum="11" pc="268444642" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="30" lineNum="43" pc="268437218" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="30" lineNum="44" pc="268437222" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="30" lineNum="46" pc="268437232" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="30" lineNum="47" pc="268437242" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="31" lineNum="52" pc="268437261" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="31" lineNum="53" pc="268437265" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="31" lineNum="54" pc="268437290" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="31" lineNum="55" pc="268437325" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="32" lineNum="58" pc="268437344" symbol="onCancel"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPicker.mc" id="33" lineNum="62" pc="268437349" symbol="onBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="35" lineNum="12" pc="268437354" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="35" lineNum="13" pc="268437358" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="35" lineNum="14" pc="268437462" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="36" lineNum="17" pc="268437522" symbol="createNumberPattern"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="36" lineNum="19" pc="268437526" symbol="createNumberPattern"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="36" lineNum="22" pc="268437558" symbol="createNumberPattern"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="37" lineNum="26" pc="268437582" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="37" lineNum="27" pc="268437586" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="37" lineNum="28" pc="268437622" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="37" lineNum="9" pc="268444751" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="39" lineNum="39" pc="268437635" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="39" lineNum="40" pc="268437639" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="39" lineNum="42" pc="268437649" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="39" lineNum="43" pc="268437659" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="40" lineNum="46" pc="268437678" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="40" lineNum="47" pc="268437682" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="40" lineNum="48" pc="268437707" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="40" lineNum="49" pc="268437742" symbol="onAccept"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="41" lineNum="52" pc="268437761" symbol="onCancel"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SettingPickerPuertas.mc" id="42" lineNum="56" pc="268437766" symbol="onBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="44" lineNum="15" pc="268437771" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="44" lineNum="16" pc="268437775" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="44" lineNum="17" pc="268437785" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="44" lineNum="18" pc="268437795" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="24" pc="268437814" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="26" pc="268437818" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="27" pc="268437835" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="32" pc="268437856" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="33" pc="268437873" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="35" pc="268437891" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="36" pc="268437909" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="40" pc="268437925" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="41" pc="268437942" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="45" lineNum="42" pc="268437960" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="46" lineNum="48" pc="268437977" symbol="onBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerDelegate.mc" id="46" lineNum="53" pc="268437981" symbol="onBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="48" lineNum="21" pc="268438006" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="48" lineNum="22" pc="268438010" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="48" lineNum="23" pc="268438027" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="48" lineNum="24" pc="268438034" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="49" lineNum="29" pc="268438182" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="49" lineNum="30" pc="268438186" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="49" lineNum="31" pc="268438202" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="50" lineNum="35" pc="268438213" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="50" lineNum="36" pc="268438217" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="51" lineNum="39" pc="268438231" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="51" lineNum="40" pc="268438235" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioPuertas.mc" id="51" lineNum="41" pc="268438253" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="53" lineNum="10" pc="268438272" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="53" lineNum="11" pc="268438276" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="53" lineNum="12" pc="268438286" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="54" lineNum="15" pc="268438305" symbol="getValue"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="54" lineNum="16" pc="268438309" symbol="getValue"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="54" lineNum="17" pc="268438328" symbol="getValue"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="55" lineNum="22" pc="268438341" symbol="getDrawable"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="55" lineNum="23" pc="268438345" symbol="getDrawable"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="56" lineNum="26" pc="268438491" symbol="getSize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="56" lineNum="28" pc="268438495" symbol="getSize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/DigitFactory.mc" id="56" lineNum="6" pc="268444885" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegatePuertas.mc" id="58" lineNum="10" pc="268438514" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegatePuertas.mc" id="58" lineNum="11" pc="268438518" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegatePuertas.mc" id="58" lineNum="12" pc="268438528" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegatePuertas.mc" id="58" lineNum="14" pc="268438538" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegatePuertas.mc" id="59" lineNum="17" pc="268438557" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegatePuertas.mc" id="59" lineNum="19" pc="268438561" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegate.mc" id="61" lineNum="8" pc="268438580" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegate.mc" id="61" lineNum="9" pc="268438584" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegate.mc" id="61" lineNum="10" pc="268438594" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegate.mc" id="61" lineNum="12" pc="268438604" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegate.mc" id="62" lineNum="15" pc="268438623" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioDelegate.mc" id="62" lineNum="17" pc="268438627" symbol="onSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="64" lineNum="53" pc="268438646" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="64" lineNum="54" pc="268438650" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="64" lineNum="55" pc="268438667" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="64" lineNum="56" pc="268438674" symbol="postMsg"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="65" lineNum="61" pc="268438822" symbol="startSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="65" lineNum="62" pc="268438826" symbol="startSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="65" lineNum="63" pc="268438843" symbol="startSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="65" lineNum="64" pc="268438875" symbol="startSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="66" lineNum="67" pc="268439018" symbol="stopSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="66" lineNum="68" pc="268439022" symbol="stopSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="66" lineNum="69" pc="268439039" symbol="stopSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="66" lineNum="70" pc="268439056" symbol="stopSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="67" lineNum="73" pc="268439079" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="68" lineNum="78" pc="268439084" symbol="getInitialView"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="69" lineNum="83" pc="268439089" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="69" lineNum="84" pc="268439093" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="69" lineNum="85" pc="268439134" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="69" lineNum="86" pc="268439146" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="69" lineNum="87" pc="268439162" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="69" lineNum="88" pc="268439174" symbol="start"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="70" lineNum="91" pc="268439187" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="70" lineNum="92" pc="268439191" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="70" lineNum="93" pc="268439209" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="70" lineNum="94" pc="268439221" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="70" lineNum="96" pc="268439237" symbol="stop"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="100" pc="268439248" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="102" pc="268439252" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="103" pc="268439269" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="105" pc="268439291" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="106" pc="268439308" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="107" pc="268439327" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="108" pc="268439343" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="109" pc="268439360" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="110" pc="268439373" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="111" pc="268439392" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="71" lineNum="115" pc="268439408" symbol="timer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="72" lineNum="118" pc="268439425" symbol="getValues"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="72" lineNum="120" pc="268439429" symbol="getValues"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="72" lineNum="122" pc="268439452" symbol="getValues"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="72" lineNum="124" pc="268439465" symbol="getValues"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="72" lineNum="125" pc="268439487" symbol="getValues"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="72" lineNum="128" pc="268439512" symbol="getValues"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="73" lineNum="131" pc="268439516" symbol="onSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="73" lineNum="132" pc="268439520" symbol="onSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="73" lineNum="133" pc="268439530" symbol="onSensor"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="74" lineNum="137" pc="268439543" symbol="startRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="74" lineNum="138" pc="268439547" symbol="startRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="74" lineNum="144" pc="268439629" symbol="startRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="74" lineNum="145" pc="268439647" symbol="startRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="74" lineNum="148" pc="268439733" symbol="startRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="75" lineNum="152" pc="268439751" symbol="vuelta"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="75" lineNum="154" pc="268439755" symbol="vuelta"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="75" lineNum="155" pc="268439773" symbol="vuelta"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="76" lineNum="160" pc="268439791" symbol="stopRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="76" lineNum="162" pc="268439795" symbol="stopRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="76" lineNum="163" pc="268439808" symbol="stopRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="76" lineNum="164" pc="268439826" symbol="stopRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="76" lineNum="165" pc="268439844" symbol="stopRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="76" lineNum="166" pc="268439853" symbol="stopRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="76" lineNum="168" pc="268439869" symbol="stopRecording"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="77" lineNum="173" pc="268439890" symbol="startBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="77" lineNum="174" pc="268439894" symbol="startBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="77" lineNum="175" pc="268439935" symbol="startBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="78" lineNum="178" pc="268439948" symbol="stopBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="78" lineNum="179" pc="268439952" symbol="stopBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="181" pc="268439971" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="183" pc="268439975" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="184" pc="268439992" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="185" pc="268440014" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="187" pc="268440039" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="188" pc="268440051" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="189" pc="268440063" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="79" lineNum="191" pc="268440076" symbol="timerBackwards"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="80" lineNum="193" pc="268440093" symbol="startBuzz"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="80" lineNum="195" pc="268440097" symbol="startBuzz"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="81" lineNum="198" pc="268440115" symbol="stopBuzz"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="81" lineNum="200" pc="268440119" symbol="stopBuzz"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="82" lineNum="203" pc="268440137" symbol="intervalBuzz"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="82" lineNum="205" pc="268440141" symbol="intervalBuzz"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="83" lineNum="208" pc="268440159" symbol="vibrate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="83" lineNum="209" pc="268440163" symbol="vibrate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="83" lineNum="210" pc="268440212" symbol="vibrate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="84" lineNum="213" pc="268440231" symbol="beep"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="84" lineNum="214" pc="268440235" symbol="beep"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="84" lineNum="215" pc="268440253" symbol="beep"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="84" lineNum="24" pc="268444449" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="84" lineNum="37" pc="268444465" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="84" lineNum="49" pc="268444499" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerModel.mc" id="84" lineNum="50" pc="268444533" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="86" lineNum="26" pc="268440257" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="86" lineNum="27" pc="268440261" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="87" lineNum="30" pc="268440280" symbol="getInitialView"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="87" lineNum="31" pc="268440284" symbol="getInitialView"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="89" lineNum="38" pc="268440322" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="89" lineNum="39" pc="268440326" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="90" lineNum="42" pc="268440345" symbol="onShow"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="90" lineNum="43" pc="268440349" symbol="onShow"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="90" lineNum="44" pc="268440361" symbol="onShow"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="91" lineNum="47" pc="268440365" symbol="switchToTimer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="91" lineNum="48" pc="268440369" symbol="switchToTimer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="91" lineNum="49" pc="268440399" symbol="switchToTimer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="91" lineNum="50" pc="268440431" symbol="switchToTimer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="91" lineNum="51" pc="268440479" symbol="switchToTimer"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="92" lineNum="54" pc="268440512" symbol="switchToRoundsSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="92" lineNum="55" pc="268440516" symbol="switchToRoundsSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="92" lineNum="56" pc="268440765" symbol="switchToRoundsSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="92" lineNum="57" pc="268440816" symbol="switchToRoundsSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="61" pc="268440861" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="62" pc="268440865" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="63" pc="268440887" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="64" pc="268440909" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="65" pc="268440931" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="66" pc="268440969" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="67" pc="268440991" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="68" pc="268441023" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="69" pc="268441085" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="93" lineNum="70" pc="268441139" symbol="addToques"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="94" lineNum="74" pc="268441184" symbol="switchToGoTimeSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="94" lineNum="75" pc="268441188" symbol="switchToGoTimeSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="94" lineNum="76" pc="268441372" symbol="switchToGoTimeSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="94" lineNum="77" pc="268441423" symbol="switchToGoTimeSelect"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="82" pc="268441468" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="83" pc="268441472" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="84" pc="268441494" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="85" pc="268441516" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="86" pc="268441538" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="87" pc="268441560" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="88" pc="268441606" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="89" pc="268441670" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="95" lineNum="90" pc="268441718" symbol="addPuertas"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="96" lineNum="94" pc="268441751" symbol="finish"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="96" lineNum="95" pc="268441755" symbol="finish"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="96" lineNum="96" pc="268441773" symbol="finish"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="96" lineNum="97" pc="268441791" symbol="finish"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="97" lineNum="103" pc="268441816" symbol="getInitialView"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="97" lineNum="104" pc="268441820" symbol="getInitialView"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="97" lineNum="6" pc="268444328" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/FitnessTimerApp.mc" id="97" lineNum="7" pc="268444342" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="99" lineNum="8" pc="268441858" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="99" lineNum="9" pc="268441862" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="99" lineNum="10" pc="268441872" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="100" lineNum="13" pc="268441891" symbol="onKey"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="100" lineNum="14" pc="268441895" symbol="onKey"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="100" lineNum="15" pc="268441937" symbol="onKey"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="100" lineNum="16" pc="268441955" symbol="onKey"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="100" lineNum="17" pc="268441965" symbol="onKey"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/StartDelegate.mc" id="100" lineNum="19" pc="268441971" symbol="onKey"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="23" pc="268441992" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="24" pc="268441996" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="25" pc="268442006" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="26" pc="268442016" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="27" pc="268442026" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="28" pc="268442036" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="29" pc="268442046" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="30" pc="268442056" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="31" pc="268442066" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="32" pc="268442088" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="37" pc="268442098" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="38" pc="268442111" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="39" pc="268442124" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="43" pc="268442140" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="102" lineNum="46" pc="268442162" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="49" pc="268442181" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="50" pc="268442185" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="52" pc="268442199" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="53" pc="268442212" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="57" pc="268442240" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="58" pc="268442257" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="60" pc="268442285" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="62" pc="268442316" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="63" pc="268442333" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="64" pc="268442355" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="65" pc="268442377" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="66" pc="268442402" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="68" pc="268442418" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="69" pc="268442435" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="70" pc="268442457" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="71" pc="268442479" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="72" pc="268442492" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="75" pc="268442520" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="76" pc="268442536" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="77" pc="268442561" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="85" pc="268442574" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="103" lineNum="86" pc="268442599" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="104" lineNum="94" pc="268442625" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="104" lineNum="95" pc="268442629" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="104" lineNum="96" pc="268442665" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="105" lineNum="99" pc="268442678" symbol="bottomText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="105" lineNum="100" pc="268442682" symbol="bottomText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="106" lineNum="103" pc="268442755" symbol="topText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="106" lineNum="104" pc="268442759" symbol="topText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="107" lineNum="107" pc="268442832" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="107" lineNum="108" pc="268442836" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="108" lineNum="111" pc="268442909" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="108" lineNum="112" pc="268442913" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="109" lineNum="115" pc="268442995" symbol="toquesString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="109" lineNum="116" pc="268442999" symbol="toquesString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="110" lineNum="118" pc="268443035" symbol="timerLastString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="110" lineNum="119" pc="268443039" symbol="timerLastString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="111" lineNum="122" pc="268443127" symbol="puertasString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="111" lineNum="123" pc="268443131" symbol="puertasString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="112" lineNum="126" pc="268443167" symbol="grabarString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="112" lineNum="127" pc="268443171" symbol="grabarString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="113" lineNum="129" pc="268443178" symbol="pressString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/SumatorioViewPuertas.mc" id="113" lineNum="130" pc="268443182" symbol="pressString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="115" lineNum="9" pc="268443189" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="115" lineNum="10" pc="268443193" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="115" lineNum="12" pc="268443203" symbol="initialize"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="15" pc="268443222" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="16" pc="268443226" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="20" pc="268443240" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="21" pc="268443263" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="22" pc="268443288" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="23" pc="268443307" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="24" pc="268443329" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="25" pc="268443352" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="26" pc="268443377" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="27" pc="268443399" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="28" pc="268443422" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="29" pc="268443447" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="30" pc="268443469" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="31" pc="268443489" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="32" pc="268443514" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="33" pc="268443533" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="36" pc="268443555" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="37" pc="268443575" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="38" pc="268443594" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="116" lineNum="39" pc="268443619" symbol="onUpdate"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="117" lineNum="45" pc="268443642" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="117" lineNum="46" pc="268443646" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="117" lineNum="47" pc="268443682" symbol="setupDisplay"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="118" lineNum="50" pc="268443695" symbol="bottomText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="118" lineNum="51" pc="268443699" symbol="bottomText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="119" lineNum="54" pc="268443772" symbol="topText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="119" lineNum="55" pc="268443776" symbol="topText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="120" lineNum="58" pc="268443849" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="120" lineNum="59" pc="268443853" symbol="largeText"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="121" lineNum="62" pc="268443926" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="121" lineNum="63" pc="268443930" symbol="timerString"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="122" lineNum="66" pc="268444030" symbol="timerBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="122" lineNum="67" pc="268444034" symbol="timerBack"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="123" lineNum="70" pc="268444064" symbol="elapsedTime"/>
-        <entry filename="/Users/ericruizm/git/kayakTimer/KayakTimer/source/TimerView.mc" id="123" lineNum="71" pc="268444068" symbol="elapsedTime"/>
-        <entry filename="Rez" id="129" lineNum="15" pc="268444084" symbol="DoneLayout"/>
-        <entry filename="Rez" id="129" lineNum="18" pc="268444096" symbol="DoneLayout"/>
-        <entry filename="Rez" id="129" lineNum="20" pc="268444296" symbol="DoneLayout"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="3" lineNum="22" pc="268435456" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="3" lineNum="23" pc="268435460" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="3" lineNum="24" pc="268435479" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="3" lineNum="25" pc="268435486" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="31" pc="268435636" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="32" pc="268435640" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="33" pc="268435650" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="34" pc="268435660" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="35" pc="268435670" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="36" pc="268435680" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="37" pc="268435690" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="38" pc="268435700" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="39" pc="268435710" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="40" pc="268435732" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="41" pc="268435754" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="46" pc="268435764" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="47" pc="268435777" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="48" pc="268435790" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="52" pc="268435806" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="4" lineNum="55" pc="268435828" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="58" pc="268435847" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="59" pc="268435851" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="61" pc="268435865" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="62" pc="268435878" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="65" pc="268435906" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="66" pc="268435923" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="68" pc="268435951" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="70" pc="268435982" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="71" pc="268435999" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="72" pc="268436021" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="73" pc="268436043" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="74" pc="268436068" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="76" pc="268436084" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="77" pc="268436101" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="78" pc="268436123" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="79" pc="268436145" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="80" pc="268436170" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="82" pc="268436186" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="83" pc="268436203" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="84" pc="268436225" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="85" pc="268436247" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="86" pc="268436272" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="88" pc="268436288" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="89" pc="268436305" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="90" pc="268436327" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="91" pc="268436349" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="92" pc="268436374" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="94" pc="268436390" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="95" pc="268436407" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="96" pc="268436429" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="97" pc="268436451" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="98" pc="268436464" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="101" pc="268436492" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="102" pc="268436508" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="103" pc="268436533" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="108" pc="268436546" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="110" pc="268436566" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="111" pc="268436591" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="112" pc="268436616" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="114" pc="268436645" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="116" pc="268436665" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="117" pc="268436690" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="5" lineNum="118" pc="268436715" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="6" lineNum="125" pc="268436745" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="6" lineNum="126" pc="268436749" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="6" lineNum="127" pc="268436785" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="7" lineNum="130" pc="268436798" symbol="bottomText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="7" lineNum="131" pc="268436802" symbol="bottomText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="8" lineNum="134" pc="268436875" symbol="topText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="8" lineNum="135" pc="268436879" symbol="topText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="9" lineNum="138" pc="268436952" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="9" lineNum="139" pc="268436956" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="10" lineNum="142" pc="268437029" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="10" lineNum="143" pc="268437033" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="11" lineNum="146" pc="268437115" symbol="toquesString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="11" lineNum="147" pc="268437119" symbol="toquesString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="12" lineNum="149" pc="268437155" symbol="timerLastString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="12" lineNum="150" pc="268437159" symbol="timerLastString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="13" lineNum="153" pc="268437247" symbol="puertocLastString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="13" lineNum="154" pc="268437251" symbol="puertocLastString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="14" lineNum="157" pc="268437288" symbol="puertasString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="14" lineNum="158" pc="268437292" symbol="puertasString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="15" lineNum="161" pc="268437328" symbol="grabarString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="15" lineNum="162" pc="268437332" symbol="grabarString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="16" lineNum="164" pc="268437339" symbol="pressString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioViewPuertas.mc" id="16" lineNum="165" pc="268437343" symbol="pressString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="18" lineNum="12" pc="268437350" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="18" lineNum="13" pc="268437354" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="18" lineNum="14" pc="268437458" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="19" lineNum="17" pc="268437518" symbol="createNumberPattern"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="19" lineNum="19" pc="268437522" symbol="createNumberPattern"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="19" lineNum="22" pc="268437554" symbol="createNumberPattern"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="20" lineNum="26" pc="268437578" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="20" lineNum="27" pc="268437582" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="20" lineNum="28" pc="268437618" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="20" lineNum="9" pc="268446339" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="22" lineNum="39" pc="268437631" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="22" lineNum="40" pc="268437635" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="22" lineNum="42" pc="268437645" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="22" lineNum="43" pc="268437655" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="23" lineNum="46" pc="268437674" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="23" lineNum="47" pc="268437678" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="23" lineNum="48" pc="268437703" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="23" lineNum="49" pc="268437738" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="24" lineNum="52" pc="268437757" symbol="onCancel"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPickerPuertas.mc" id="25" lineNum="56" pc="268437762" symbol="onBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="27" lineNum="15" pc="268437767" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="27" lineNum="16" pc="268437771" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="27" lineNum="17" pc="268437781" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="27" lineNum="18" pc="268437791" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="24" pc="268437810" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="28" pc="268437814" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="29" pc="268437831" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="32" pc="268437852" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="33" pc="268437869" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="35" pc="268437887" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="36" pc="268437905" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="37" pc="268437918" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="40" pc="268437937" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="41" pc="268437954" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="28" lineNum="42" pc="268437972" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="29" lineNum="48" pc="268437989" symbol="onBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerDelegate.mc" id="29" lineNum="53" pc="268437993" symbol="onBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="31" lineNum="8" pc="268438018" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="31" lineNum="9" pc="268438022" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="31" lineNum="10" pc="268438032" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="32" lineNum="13" pc="268438051" symbol="onKey"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="32" lineNum="14" pc="268438055" symbol="onKey"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="32" lineNum="15" pc="268438097" symbol="onKey"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="32" lineNum="16" pc="268438115" symbol="onKey"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="32" lineNum="17" pc="268438125" symbol="onKey"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/StartDelegate.mc" id="32" lineNum="19" pc="268438131" symbol="onKey"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegate.mc" id="34" lineNum="8" pc="268438152" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegate.mc" id="34" lineNum="9" pc="268438156" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegate.mc" id="34" lineNum="10" pc="268438166" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegate.mc" id="34" lineNum="12" pc="268438176" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegate.mc" id="35" lineNum="15" pc="268438195" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegate.mc" id="35" lineNum="17" pc="268438199" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="37" lineNum="26" pc="268438218" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="37" lineNum="27" pc="268438222" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="38" lineNum="30" pc="268438241" symbol="getInitialView"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="38" lineNum="31" pc="268438245" symbol="getInitialView"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="40" lineNum="38" pc="268438283" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="40" lineNum="39" pc="268438287" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="41" lineNum="42" pc="268438306" symbol="onShow"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="41" lineNum="43" pc="268438310" symbol="onShow"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="41" lineNum="44" pc="268438322" symbol="onShow"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="42" lineNum="47" pc="268438326" symbol="switchToTimer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="42" lineNum="48" pc="268438330" symbol="switchToTimer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="42" lineNum="49" pc="268438360" symbol="switchToTimer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="42" lineNum="50" pc="268438392" symbol="switchToTimer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="42" lineNum="51" pc="268438440" symbol="switchToTimer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="43" lineNum="54" pc="268438473" symbol="switchToRoundsSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="43" lineNum="55" pc="268438477" symbol="switchToRoundsSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="43" lineNum="56" pc="268438726" symbol="switchToRoundsSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="43" lineNum="57" pc="268438777" symbol="switchToRoundsSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="61" pc="268438822" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="62" pc="268438826" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="63" pc="268438848" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="64" pc="268438870" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="65" pc="268438892" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="66" pc="268438930" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="67" pc="268438952" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="68" pc="268438984" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="69" pc="268439016" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="70" pc="268439078" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="44" lineNum="71" pc="268439132" symbol="addToques"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="45" lineNum="75" pc="268439177" symbol="switchToGoTimeSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="45" lineNum="76" pc="268439181" symbol="switchToGoTimeSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="45" lineNum="77" pc="268439300" symbol="switchToGoTimeSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="45" lineNum="78" pc="268439351" symbol="switchToGoTimeSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="83" pc="268439396" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="84" pc="268439400" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="85" pc="268439422" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="86" pc="268439444" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="87" pc="268439466" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="88" pc="268439488" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="89" pc="268439534" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="90" pc="268439556" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="91" pc="268439588" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="92" pc="268439620" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="93" pc="268439684" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="46" lineNum="94" pc="268439732" symbol="addPuertas"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="47" lineNum="98" pc="268439765" symbol="finish"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="47" lineNum="99" pc="268439769" symbol="finish"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="47" lineNum="100" pc="268439787" symbol="finish"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="47" lineNum="101" pc="268439805" symbol="finish"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="48" lineNum="105" pc="268439830" symbol="getInitialView"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="48" lineNum="106" pc="268439834" symbol="getInitialView"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="48" lineNum="6" pc="268445916" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/FitnessTimerApp.mc" id="48" lineNum="7" pc="268445930" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="18" pc="268439872" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="19" pc="268439876" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="20" pc="268439886" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="21" pc="268439896" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="22" pc="268439906" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="23" pc="268439916" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="24" pc="268439926" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="25" pc="268439936" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="26" pc="268439946" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="28" pc="268439968" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="50" lineNum="30" pc="268439990" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="33" pc="268440009" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="34" pc="268440013" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="36" pc="268440027" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="37" pc="268440040" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="41" pc="268440068" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="42" pc="268440085" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="44" pc="268440113" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="46" pc="268440144" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="47" pc="268440161" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="48" pc="268440183" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="49" pc="268440205" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="50" pc="268440230" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="52" pc="268440246" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="53" pc="268440263" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="54" pc="268440285" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="55" pc="268440307" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="56" pc="268440320" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="59" pc="268440348" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="60" pc="268440364" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="61" pc="268440389" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="66" pc="268440402" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="51" lineNum="67" pc="268440427" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="52" lineNum="71" pc="268440453" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="52" lineNum="72" pc="268440457" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="52" lineNum="73" pc="268440493" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="53" lineNum="76" pc="268440506" symbol="bottomText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="53" lineNum="77" pc="268440510" symbol="bottomText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="53" lineNum="78" pc="268440582" symbol="bottomText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="54" lineNum="81" pc="268440619" symbol="topText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="54" lineNum="82" pc="268440623" symbol="topText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="54" lineNum="83" pc="268440695" symbol="topText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="55" lineNum="86" pc="268440732" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="55" lineNum="87" pc="268440736" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="56" lineNum="90" pc="268440809" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="56" lineNum="91" pc="268440813" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="57" lineNum="94" pc="268440895" symbol="timerLastString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="57" lineNum="95" pc="268440899" symbol="timerLastString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="58" lineNum="98" pc="268440987" symbol="toquesString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioView.mc" id="58" lineNum="99" pc="268440991" symbol="toquesString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="60" lineNum="5" pc="268441027" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="60" lineNum="6" pc="268441031" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="61" lineNum="9" pc="268441050" symbol="onLayout"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="61" lineNum="10" pc="268441054" symbol="onLayout"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="63" lineNum="16" pc="268441092" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="63" lineNum="17" pc="268441096" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="64" lineNum="20" pc="268441115" symbol="onBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Done.mc" id="64" lineNum="21" pc="268441119" symbol="onBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="66" lineNum="23" pc="268441144" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="66" lineNum="24" pc="268441148" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="66" lineNum="25" pc="268441165" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="66" lineNum="26" pc="268441172" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="67" lineNum="31" pc="268441320" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="67" lineNum="32" pc="268441324" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="67" lineNum="33" pc="268441340" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="68" lineNum="37" pc="268441351" symbol="update"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioPuertas.mc" id="68" lineNum="38" pc="268441355" symbol="update"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="70" lineNum="10" pc="268441372" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="70" lineNum="11" pc="268441376" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="70" lineNum="12" pc="268441386" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="70" lineNum="13" pc="268441396" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="70" lineNum="15" pc="268441406" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="71" lineNum="18" pc="268441425" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="71" lineNum="19" pc="268441429" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="71" lineNum="20" pc="268441443" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="72" lineNum="23" pc="268441469" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="72" lineNum="24" pc="268441473" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="73" lineNum="27" pc="268441546" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/finishView.mc" id="73" lineNum="28" pc="268441550" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="75" lineNum="10" pc="268441632" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="75" lineNum="11" pc="268441636" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="75" lineNum="12" pc="268441646" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="75" lineNum="14" pc="268441656" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="76" lineNum="17" pc="268441675" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="76" lineNum="18" pc="268441679" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="76" lineNum="19" pc="268441696" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="76" lineNum="20" pc="268441703" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="25" pc="268441851" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="27" pc="268441855" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="29" pc="268441872" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="33" pc="268441893" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="35" pc="268441910" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="36" pc="268441926" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="37" pc="268441939" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="77" lineNum="38" pc="268441957" symbol="onSelect"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SumatorioDelegatePuertas.mc" id="78" lineNum="43" pc="268441987" symbol="onBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="80" lineNum="10" pc="268441992" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="80" lineNum="11" pc="268441996" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="80" lineNum="12" pc="268442006" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="81" lineNum="15" pc="268442025" symbol="getValue"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="81" lineNum="16" pc="268442029" symbol="getValue"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="81" lineNum="17" pc="268442048" symbol="getValue"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="82" lineNum="22" pc="268442061" symbol="getDrawable"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="82" lineNum="23" pc="268442065" symbol="getDrawable"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="83" lineNum="26" pc="268442211" symbol="getSize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="83" lineNum="28" pc="268442215" symbol="getSize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/DigitFactory.mc" id="83" lineNum="6" pc="268446473" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="85" lineNum="14" pc="268442234" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="85" lineNum="15" pc="268442238" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="85" lineNum="16" pc="268442342" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="86" lineNum="19" pc="268442402" symbol="createNumberPattern"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="86" lineNum="21" pc="268442406" symbol="createNumberPattern"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="86" lineNum="24" pc="268442438" symbol="createNumberPattern"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="87" lineNum="28" pc="268442462" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="87" lineNum="29" pc="268442466" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="87" lineNum="30" pc="268442502" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="87" lineNum="11" pc="268446230" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="89" lineNum="43" pc="268442515" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="89" lineNum="44" pc="268442519" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="89" lineNum="46" pc="268442529" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="89" lineNum="47" pc="268442539" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="90" lineNum="52" pc="268442558" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="90" lineNum="53" pc="268442562" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="90" lineNum="54" pc="268442587" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="90" lineNum="55" pc="268442622" symbol="onAccept"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="91" lineNum="58" pc="268442641" symbol="onCancel"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/SettingPicker.mc" id="92" lineNum="62" pc="268442646" symbol="onBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Sumatorio.mc" id="94" lineNum="12" pc="268442651" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/Sumatorio.mc" id="94" lineNum="13" pc="268442655" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="96" lineNum="9" pc="268442672" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="96" lineNum="10" pc="268442676" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="96" lineNum="12" pc="268442686" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="15" pc="268442705" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="16" pc="268442709" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="20" pc="268442723" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="21" pc="268442746" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="22" pc="268442771" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="23" pc="268442790" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="24" pc="268442812" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="25" pc="268442835" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="26" pc="268442860" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="27" pc="268442879" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="28" pc="268442901" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="29" pc="268442924" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="30" pc="268442949" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="31" pc="268442968" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="32" pc="268442990" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="33" pc="268443010" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="34" pc="268443035" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="35" pc="268443054" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="38" pc="268443076" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="39" pc="268443096" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="40" pc="268443115" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="97" lineNum="41" pc="268443140" symbol="onUpdate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="98" lineNum="47" pc="268443163" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="98" lineNum="48" pc="268443167" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="98" lineNum="49" pc="268443203" symbol="setupDisplay"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="99" lineNum="52" pc="268443216" symbol="bottomText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="99" lineNum="53" pc="268443220" symbol="bottomText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="100" lineNum="56" pc="268443293" symbol="topText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="100" lineNum="57" pc="268443297" symbol="topText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="101" lineNum="60" pc="268443370" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="101" lineNum="61" pc="268443374" symbol="largeText"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="102" lineNum="64" pc="268443447" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="102" lineNum="65" pc="268443451" symbol="timerString"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="103" lineNum="68" pc="268443551" symbol="timerBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="103" lineNum="69" pc="268443555" symbol="timerBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="104" lineNum="72" pc="268443585" symbol="elapsedTime"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerView.mc" id="104" lineNum="73" pc="268443589" symbol="elapsedTime"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="106" lineNum="54" pc="268443605" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="106" lineNum="55" pc="268443609" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="106" lineNum="56" pc="268443626" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="106" lineNum="57" pc="268443633" symbol="postMsg"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="107" lineNum="62" pc="268443781" symbol="startSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="107" lineNum="63" pc="268443785" symbol="startSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="107" lineNum="64" pc="268443802" symbol="startSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="107" lineNum="65" pc="268443834" symbol="startSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="108" lineNum="68" pc="268443977" symbol="stopSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="108" lineNum="69" pc="268443981" symbol="stopSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="108" lineNum="70" pc="268443998" symbol="stopSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="108" lineNum="71" pc="268444015" symbol="stopSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="109" lineNum="74" pc="268444038" symbol="initialize"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="110" lineNum="79" pc="268444043" symbol="getInitialView"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="111" lineNum="84" pc="268444048" symbol="start"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="111" lineNum="85" pc="268444052" symbol="start"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="111" lineNum="86" pc="268444093" symbol="start"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="111" lineNum="87" pc="268444105" symbol="start"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="111" lineNum="88" pc="268444121" symbol="start"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="111" lineNum="89" pc="268444133" symbol="start"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="112" lineNum="92" pc="268444146" symbol="stop"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="112" lineNum="93" pc="268444150" symbol="stop"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="112" lineNum="94" pc="268444168" symbol="stop"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="112" lineNum="95" pc="268444180" symbol="stop"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="112" lineNum="97" pc="268444196" symbol="stop"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="101" pc="268444207" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="103" pc="268444211" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="104" pc="268444228" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="106" pc="268444250" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="107" pc="268444267" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="108" pc="268444286" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="109" pc="268444302" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="110" pc="268444319" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="111" pc="268444332" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="112" pc="268444351" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="113" lineNum="116" pc="268444367" symbol="timer"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="114" lineNum="119" pc="268444384" symbol="getValues"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="114" lineNum="121" pc="268444388" symbol="getValues"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="114" lineNum="123" pc="268444411" symbol="getValues"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="114" lineNum="125" pc="268444424" symbol="getValues"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="114" lineNum="126" pc="268444446" symbol="getValues"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="114" lineNum="129" pc="268444471" symbol="getValues"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="115" lineNum="132" pc="268444475" symbol="onSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="115" lineNum="133" pc="268444479" symbol="onSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="115" lineNum="134" pc="268444489" symbol="onSensor"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="138" pc="268444502" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="139" pc="268444506" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="145" pc="268444588" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="146" pc="268444606" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="147" pc="268444692" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="148" pc="268444778" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="149" pc="268444864" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="116" lineNum="150" pc="268444950" symbol="startRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="117" lineNum="154" pc="268444968" symbol="vuelta"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="117" lineNum="156" pc="268444972" symbol="vuelta"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="117" lineNum="157" pc="268444990" symbol="vuelta"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="118" lineNum="162" pc="268445008" symbol="stopRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="118" lineNum="164" pc="268445012" symbol="stopRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="118" lineNum="165" pc="268445025" symbol="stopRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="118" lineNum="166" pc="268445043" symbol="stopRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="118" lineNum="167" pc="268445061" symbol="stopRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="118" lineNum="168" pc="268445070" symbol="stopRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="118" lineNum="170" pc="268445086" symbol="stopRecording"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="119" lineNum="175" pc="268445107" symbol="startBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="119" lineNum="176" pc="268445111" symbol="startBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="119" lineNum="177" pc="268445152" symbol="startBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="120" lineNum="180" pc="268445165" symbol="stopBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="120" lineNum="181" pc="268445169" symbol="stopBack"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="183" pc="268445188" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="185" pc="268445192" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="186" pc="268445209" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="187" pc="268445231" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="189" pc="268445256" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="190" pc="268445268" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="191" pc="268445280" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="194" pc="268445293" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="195" pc="268445310" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="197" pc="268445352" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="198" pc="268445369" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="201" pc="268445411" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="202" pc="268445428" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="121" lineNum="204" pc="268445470" symbol="timerBackwards"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="122" lineNum="209" pc="268445487" symbol="startBuzz"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="122" lineNum="210" pc="268445491" symbol="startBuzz"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="122" lineNum="211" pc="268445530" symbol="startBuzz"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="123" lineNum="214" pc="268445548" symbol="stopBuzz"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="123" lineNum="216" pc="268445552" symbol="stopBuzz"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="124" lineNum="219" pc="268445570" symbol="intervalBuzz"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="124" lineNum="221" pc="268445574" symbol="intervalBuzz"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="125" lineNum="224" pc="268445592" symbol="vibrate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="125" lineNum="225" pc="268445596" symbol="vibrate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="125" lineNum="226" pc="268445645" symbol="vibrate"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="126" lineNum="229" pc="268445664" symbol="beep"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="126" lineNum="230" pc="268445668" symbol="beep"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="126" lineNum="231" pc="268445686" symbol="beep"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="126" lineNum="24" pc="268446037" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="126" lineNum="37" pc="268446053" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="126" lineNum="50" pc="268446087" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/ericruizm/git/KayakTimerApp/KayakTimer/source/TimerModel.mc" id="126" lineNum="51" pc="268446121" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="132" lineNum="15" pc="268445690" symbol="DoneLayout"/>
+        <entry filename="Rez" id="132" lineNum="17" pc="268445702" symbol="DoneLayout"/>
+        <entry filename="Rez" id="132" lineNum="19" pc="268445884" symbol="DoneLayout"/>
     </pcToLineNum>
     <symbolTable>
-        <entry id="19" object="true" symbol="TimerDelegate"/>
+        <entry id="13" object="true" symbol="TimerDelegate"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
         <entry id="8389626" method="true" symbol="onAccept"/>
-        <entry field="true" id="69" symbol="sensorInfo"/>
-        <entry id="44" object="true" symbol="TimerView"/>
-        <entry field="true" id="104" symbol="solucion"/>
-        <entry field="true" id="112" symbol="sumpuertas"/>
+        <entry field="true" id="72" symbol="sensorInfo"/>
+        <entry id="43" object="true" symbol="TimerView"/>
+        <entry field="true" id="109" symbol="solucion"/>
+        <entry field="true" id="117" symbol="sumpuertas"/>
+        <entry field="true" id="57" symbol="puerta"/>
         <entry id="8389346" symbol="text"/>
-        <entry id="94" method="true" symbol="timerBack"/>
-        <entry field="true" id="101" symbol="sumtoques"/>
-        <entry id="110" method="true" symbol="addPuertas"/>
-        <entry field="true" id="72" symbol="refreshTimer"/>
+        <entry id="99" method="true" symbol="timerBack"/>
+        <entry field="true" id="106" symbol="sumtoques"/>
+        <entry id="115" method="true" symbol="addPuertas"/>
+        <entry field="true" id="77" symbol="refreshTimer"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry id="15" object="true" symbol="SettingPickerDelegate"/>
-        <entry id="40" object="true" symbol="KayakTimer"/>
-        <entry field="true" id="28" symbol="sumatorio"/>
+        <entry id="41" object="true" symbol="SettingPickerDelegate"/>
+        <entry id="31" object="true" symbol="KayakTimer"/>
+        <entry field="true" id="19" symbol="sumatorio"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
         <entry id="8389849" symbol="units"/>
-        <entry id="107" method="true" symbol="switchToRoundsSelect"/>
-        <entry id="81" method="true" symbol="stopRecording"/>
-        <entry id="79" method="true" symbol="startRecording"/>
+        <entry id="112" method="true" symbol="switchToRoundsSelect"/>
+        <entry id="86" method="true" symbol="stopRecording"/>
+        <entry id="84" method="true" symbol="startRecording"/>
         <entry id="8388638" module="true" symbol="ActivityRecording"/>
-        <entry field="true" id="59" symbol="STOPPED"/>
-        <entry id="109" method="true" symbol="switchToGoTimeSelect"/>
-        <entry field="true" id="56" symbol="done"/>
-        <entry id="76" method="true" symbol="timer"/>
-        <entry id="102" method="true" symbol="timerLastString"/>
-        <entry field="true" id="70" symbol="secback"/>
-        <entry field="true" id="116" symbol="mFormatString"/>
+        <entry field="true" id="62" symbol="STOPPED"/>
+        <entry id="114" method="true" symbol="switchToGoTimeSelect"/>
+        <entry field="true" id="58" symbol="done"/>
+        <entry id="81" method="true" symbol="timer"/>
+        <entry field="true" id="75" symbol="toquesTotalesField"/>
+        <entry id="107" method="true" symbol="timerLastString"/>
+        <entry field="true" id="73" symbol="secback"/>
+        <entry field="true" id="123" symbol="mFormatString"/>
         <entry field="true" id="8388890" symbol="sport"/>
-        <entry id="114" method="true" symbol="grabarString"/>
+        <entry id="121" method="true" symbol="grabarString"/>
         <entry field="true" id="8388826" method="true" symbol="next"/>
-        <entry field="true" id="73" symbol="backTimer"/>
-        <entry field="true" id="29" symbol="sumatorio2"/>
-        <entry id="74" method="true" symbol="startSensor"/>
-        <entry field="true" id="96" symbol="numero"/>
-        <entry id="20" object="true" symbol="SumatorioPuertas"/>
-        <entry id="106" method="true" symbol="switchToTimer"/>
+        <entry field="true" id="78" symbol="backTimer"/>
+        <entry field="true" id="20" symbol="sumatorio2"/>
+        <entry id="79" method="true" symbol="startSensor"/>
+        <entry field="true" id="101" symbol="numero"/>
+        <entry id="36" object="true" symbol="SumatorioPuertas"/>
+        <entry id="111" method="true" symbol="switchToTimer"/>
         <entry id="8389629" method="true" symbol="getValue"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry field="true" id="8388748" symbol="averageHeartRate"/>
-        <entry id="108" method="true" symbol="addToques"/>
+        <entry field="true" id="118" symbol="puertas2"/>
+        <entry id="113" method="true" symbol="addToques"/>
         <entry field="true" id="46" symbol="TOQUES"/>
-        <entry field="true" id="38" symbol="sumatorioView"/>
-        <entry id="83" method="true" symbol="stopBack"/>
-        <entry field="true" id="39" symbol="sumatorioDelegate"/>
-        <entry id="118" symbol="rounds"/>
-        <entry id="80" method="true" symbol="vuelta"/>
+        <entry field="true" id="29" symbol="sumatorioView"/>
+        <entry id="88" method="true" symbol="stopBack"/>
+        <entry field="true" id="30" symbol="sumatorioDelegate"/>
+        <entry id="125" symbol="rounds"/>
+        <entry id="85" method="true" symbol="vuelta"/>
         <entry field="true" id="8389814" symbol="timerState"/>
-        <entry field="true" id="57" symbol="AppName"/>
-        <entry id="14" object="true" symbol="SettingPickerView"/>
-        <entry field="true" id="58" symbol="OFF"/>
+        <entry field="true" id="60" symbol="AppName"/>
+        <entry id="40" object="true" symbol="SettingPickerView"/>
+        <entry field="true" id="61" symbol="OFF"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
-        <entry id="16" object="true" symbol="SettingPickerViewPuertas"/>
+        <entry id="10" object="true" symbol="SettingPickerViewPuertas"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry id="92" method="true" symbol="largeText"/>
-        <entry field="true" id="68" symbol="Kcal"/>
-        <entry id="12" object="true" symbol="DoneView"/>
+        <entry id="97" method="true" symbol="largeText"/>
+        <entry field="true" id="71" symbol="Kcal"/>
+        <entry id="34" object="true" symbol="DoneView"/>
         <entry id="8388631" module="true" symbol="Activity"/>
-        <entry field="true" id="55" symbol="toque"/>
+        <entry field="true" id="56" symbol="toque"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389081" method="true" symbol="onBack"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="100" symbol="sectoques"/>
-        <entry field="true" id="65" symbol="activityInfo"/>
-        <entry field="true" id="37" method="true" symbol="finish"/>
-        <entry id="105" method="true" symbol="createNumberPattern"/>
+        <entry field="true" id="105" symbol="sectoques"/>
+        <entry field="true" id="68" symbol="activityInfo"/>
+        <entry field="true" id="28" method="true" symbol="finish"/>
+        <entry id="110" method="true" symbol="createNumberPattern"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
-        <entry id="24" object="true" symbol="TimerModel"/>
-        <entry field="true" id="33" symbol="goTimePickerDelegate"/>
-        <entry field="true" id="36" symbol="puertas"/>
+        <entry id="44" object="true" symbol="TimerModel"/>
+        <entry field="true" id="24" symbol="goTimePickerDelegate"/>
+        <entry field="true" id="27" symbol="puertas"/>
+        <entry id="119" method="true" symbol="puertocLastString"/>
         <entry field="true" id="8388721" symbol="min"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
         <entry id="8389630" method="true" symbol="getSize"/>
-        <entry field="true" id="34" symbol="mili"/>
-        <entry id="88" method="true" symbol="beep"/>
-        <entry id="52" module="true" symbol="Menus"/>
-        <entry field="true" id="111" symbol="secpuertas"/>
+        <entry field="true" id="25" symbol="mili"/>
+        <entry id="93" method="true" symbol="beep"/>
+        <entry id="53" module="true" symbol="Menus"/>
+        <entry field="true" id="116" symbol="secpuertas"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-        <entry id="22" object="true" symbol="SumatorioDelegatePuertas"/>
-        <entry id="54" method="true" symbol="DoneLayout"/>
-        <entry id="90" method="true" symbol="bottomText"/>
+        <entry id="38" object="true" symbol="SumatorioDelegatePuertas"/>
+        <entry id="55" method="true" symbol="DoneLayout"/>
+        <entry id="95" method="true" symbol="bottomText"/>
         <entry field="true" id="45" symbol="PUERTAS"/>
-        <entry field="true" id="32" symbol="roundsPickerDelegate"/>
-        <entry id="85" method="true" symbol="startBuzz"/>
+        <entry field="true" id="23" symbol="roundsPickerDelegate"/>
+        <entry id="90" method="true" symbol="startBuzz"/>
         <entry field="true" id="47" symbol="GRABAR"/>
         <entry field="true" id="8389850" symbol="count"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="62" symbol="HAS_TONES"/>
-        <entry id="103" method="true" symbol="toquesString"/>
-        <entry field="true" id="67" symbol="hr"/>
+        <entry field="true" id="65" symbol="HAS_TONES"/>
+        <entry id="108" method="true" symbol="toquesString"/>
+        <entry field="true" id="70" symbol="hr"/>
         <entry id="8389349" symbol="justification"/>
-        <entry id="17" object="true" symbol="SettingPickerDelegatePuertas"/>
+        <entry id="11" object="true" symbol="SettingPickerDelegatePuertas"/>
         <entry id="8388987" method="true" symbol="vibrate"/>
         <entry field="true" id="8388722" symbol="sec"/>
-        <entry field="true" id="99" symbol="milisegundos"/>
-        <entry id="113" method="true" symbol="puertasString"/>
-        <entry field="true" id="64" symbol="siguiente"/>
+        <entry field="true" id="104" symbol="milisegundos"/>
+        <entry id="120" method="true" symbol="puertasString"/>
+        <entry field="true" id="67" symbol="siguiente"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry id="11" object="true" symbol="Sumatorio"/>
+        <entry id="42" object="true" symbol="Sumatorio"/>
         <entry id="8388699" method="true" symbol="stop"/>
-        <entry field="true" id="61" symbol="ON"/>
+        <entry field="true" id="64" symbol="ON"/>
         <entry id="8389628" method="true" symbol="getDrawable"/>
-        <entry id="42" object="true" symbol="StartDelegate"/>
+        <entry id="14" object="true" symbol="StartDelegate"/>
         <entry id="8388985" method="true" symbol="playTone"/>
-        <entry field="true" id="31" symbol="roundsPicker"/>
-        <entry field="true" id="98" symbol="segundos"/>
+        <entry field="true" id="22" symbol="roundsPicker"/>
+        <entry field="true" id="103" symbol="segundos"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry id="93" method="true" symbol="timerString"/>
-        <entry id="91" method="true" symbol="topText"/>
-        <entry field="true" id="30" symbol="goTimePicker"/>
+        <entry id="98" method="true" symbol="timerString"/>
+        <entry id="96" method="true" symbol="topText"/>
+        <entry field="true" id="21" symbol="goTimePicker"/>
         <entry id="8389619" method="true" symbol="onSelect"/>
-        <entry id="84" method="true" symbol="timerBackwards"/>
+        <entry id="89" method="true" symbol="timerBackwards"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="35" symbol="toques"/>
-        <entry id="87" method="true" symbol="intervalBuzz"/>
-        <entry id="41" object="true" symbol="StartView"/>
-        <entry field="true" id="60" symbol="PAUSED"/>
-        <entry field="true" id="63" symbol="started"/>
-        <entry id="82" method="true" symbol="startBack"/>
-        <entry id="50" method="true" symbol="postMsg"/>
-        <entry id="78" method="true" symbol="onSensor"/>
+        <entry field="true" id="26" symbol="toques"/>
+        <entry id="92" method="true" symbol="intervalBuzz"/>
+        <entry field="true" id="59" symbol="nombre"/>
+        <entry id="32" object="true" symbol="StartView"/>
+        <entry field="true" id="63" symbol="PAUSED"/>
+        <entry field="true" id="66" symbol="started"/>
+        <entry id="87" method="true" symbol="startBack"/>
+        <entry id="51" method="true" symbol="postMsg"/>
+        <entry id="83" method="true" symbol="onSensor"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="53" symbol="LauncherIcon"/>
+        <entry field="true" id="54" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="8388643" module="true" symbol="Sensor"/>
-        <entry field="true" id="71" symbol="usecback"/>
+        <entry field="true" id="74" symbol="usecback"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry id="9" object="true" symbol="SumatorioView"/>
-        <entry id="10" object="true" symbol="finishView"/>
+        <entry id="33" object="true" symbol="SumatorioView"/>
+        <entry id="37" object="true" symbol="finishView"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry id="13" object="true" symbol="DoneDelegate"/>
+        <entry id="35" object="true" symbol="DoneDelegate"/>
         <entry field="true" id="8388960" symbol="heartRate"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="27" symbol="model"/>
+        <entry field="true" id="18" symbol="model"/>
         <entry field="true" id="8388891" symbol="subSport"/>
         <entry id="8389780" module="true" symbol="FitContributor"/>
-        <entry id="23" object="true" symbol="SumatorioDelegate"/>
-        <entry field="true" id="95" symbol="settingsSymbol"/>
+        <entry id="15" object="true" symbol="SumatorioDelegate"/>
+        <entry field="true" id="100" symbol="settingsSymbol"/>
+        <entry field="true" id="76" symbol="puertasTotalesField"/>
         <entry field="true" id="8388892" symbol="name"/>
         <entry id="8389541" method="true" symbol="onCancel"/>
-        <entry field="true" id="25" symbol="settings"/>
+        <entry field="true" id="16" symbol="settings"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
-        <entry field="true" id="66" symbol="elaTime"/>
+        <entry field="true" id="69" symbol="elaTime"/>
         <entry field="true" id="8389128" symbol="mFont"/>
         <entry id="8389847" symbol="mesgType"/>
         <entry id="8389347" symbol="color"/>
         <entry field="true" id="8388732" method="true" symbol="elapsedTime"/>
         <entry id="8389097" method="true" symbol="onKey"/>
-        <entry field="true" id="97" symbol="minutos"/>
-        <entry id="115" method="true" symbol="pressString"/>
-        <entry id="77" method="true" symbol="getValues"/>
+        <entry field="true" id="102" symbol="minutos"/>
+        <entry id="122" method="true" symbol="pressString"/>
+        <entry id="82" method="true" symbol="getValues"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
-        <entry id="51" module="true" symbol="Layouts"/>
-        <entry id="21" object="true" symbol="DigitFactory"/>
+        <entry id="52" module="true" symbol="Layouts"/>
+        <entry id="39" object="true" symbol="DigitFactory"/>
         <entry id="8388636" module="true" symbol="Attention"/>
         <entry id="8388698" method="true" symbol="start"/>
         <entry id="8389643" symbol="pattern"/>
-        <entry id="89" method="true" symbol="setupDisplay"/>
+        <entry id="94" method="true" symbol="setupDisplay"/>
         <entry field="true" id="49" symbol="puertasField"/>
-        <entry field="true" id="117" symbol="options"/>
-        <entry field="true" id="26" symbol="settings2"/>
+        <entry field="true" id="124" symbol="options"/>
+        <entry field="true" id="17" symbol="settings2"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
-        <entry id="75" method="true" symbol="stopSensor"/>
-        <entry field="true" id="18" symbol="session"/>
-        <entry id="43" object="true" symbol="SumatorioViewPuertas"/>
+        <entry field="true" id="50" symbol="seguir"/>
+        <entry id="80" method="true" symbol="stopSensor"/>
+        <entry id="8390514" method="true" symbol="update"/>
+        <entry field="true" id="12" symbol="session"/>
+        <entry id="9" object="true" symbol="SumatorioViewPuertas"/>
         <entry field="true" id="48" symbol="toquesField"/>
         <entry field="true" id="8389642" symbol="title"/>
-        <entry id="119" symbol="goTime"/>
-        <entry id="86" method="true" symbol="stopBuzz"/>
+        <entry id="126" symbol="goTime"/>
+        <entry id="91" method="true" symbol="stopBuzz"/>
     </symbolTable>
     <localVars>
-        <entry arg="true" endPc="268435593" name="mi" stackId="2" startPc="268435456"/>
-        <entry arg="true" endPc="268435593" name="sum" stackId="1" startPc="268435456"/>
-        <entry arg="true" endPc="268435593" name="mil" stackId="4" startPc="268435456"/>
-        <entry arg="true" endPc="268435593" name="se" stackId="3" startPc="268435456"/>
-        <entry arg="true" endPc="268436037" name="dc" stackId="1" startPc="268435593"/>
-        <entry arg="true" endPc="268436090" name="dc" stackId="1" startPc="268436037"/>
-        <entry arg="true" endPc="268436167" name="dc" stackId="2" startPc="268436090"/>
-        <entry arg="true" endPc="268436167" name="text" stackId="1" startPc="268436090"/>
-        <entry arg="true" endPc="268436244" name="dc" stackId="2" startPc="268436167"/>
-        <entry arg="true" endPc="268436244" name="text" stackId="1" startPc="268436167"/>
-        <entry arg="true" endPc="268436321" name="dc" stackId="2" startPc="268436244"/>
-        <entry arg="true" endPc="268436321" name="text" stackId="1" startPc="268436244"/>
-        <entry arg="true" endPc="268436592" name="mi" stackId="1" startPc="268436539"/>
-        <entry arg="true" endPc="268436592" name="mil" stackId="3" startPc="268436539"/>
-        <entry arg="true" endPc="268436592" name="se" stackId="2" startPc="268436539"/>
-        <entry arg="true" endPc="268436636" name="dc" stackId="1" startPc="268436592"/>
-        <entry arg="true" endPc="268436713" name="dc" stackId="2" startPc="268436636"/>
-        <entry arg="true" endPc="268436713" name="text" stackId="1" startPc="268436636"/>
-        <entry arg="true" endPc="268436820" name="settings" stackId="1" startPc="268436799"/>
-        <entry arg="true" endPc="268436885" name="dc" stackId="1" startPc="268436843"/>
-        <entry endPc="268437104" name="title" stackId="3" startPc="268436941"/>
-        <entry arg="true" endPc="268437105" name="titleText" stackId="1" startPc="268436937"/>
-        <entry arg="true" endPc="268437105" name="options" stackId="2" startPc="268436937"/>
-        <entry arg="true" endPc="268437165" name="options" stackId="1" startPc="268437105"/>
-        <entry arg="true" endPc="268437218" name="dc" stackId="1" startPc="268437165"/>
-        <entry arg="true" endPc="268437261" name="symbol" stackId="1" startPc="268437218"/>
-        <entry arg="true" endPc="268437261" name="callback" stackId="2" startPc="268437218"/>
-        <entry arg="true" endPc="268437344" name="values" stackId="1" startPc="268437261"/>
-        <entry endPc="268437521" name="title" stackId="3" startPc="268437358"/>
-        <entry arg="true" endPc="268437522" name="titleText" stackId="1" startPc="268437354"/>
-        <entry arg="true" endPc="268437522" name="options" stackId="2" startPc="268437354"/>
-        <entry arg="true" endPc="268437582" name="options" stackId="1" startPc="268437522"/>
-        <entry arg="true" endPc="268437635" name="dc" stackId="1" startPc="268437582"/>
-        <entry arg="true" endPc="268437678" name="symbol" stackId="1" startPc="268437635"/>
-        <entry arg="true" endPc="268437678" name="callback" stackId="2" startPc="268437635"/>
-        <entry arg="true" endPc="268437761" name="values" stackId="1" startPc="268437678"/>
-        <entry arg="true" endPc="268437814" name="mdl" stackId="1" startPc="268437771"/>
-        <entry arg="true" endPc="268437814" name="callback" stackId="2" startPc="268437771"/>
-        <entry endPc="268438181" name="time" stackId="2" startPc="268438010"/>
-        <entry arg="true" endPc="268438182" name="identifier" stackId="1" startPc="268438006"/>
-        <entry arg="true" endPc="268438213" name="toc" stackId="2" startPc="268438182"/>
-        <entry arg="true" endPc="268438213" name="settings2" stackId="1" startPc="268438182"/>
-        <entry arg="true" endPc="268438305" name="optionsArray" stackId="1" startPc="268438272"/>
-        <entry arg="true" endPc="268438341" name="index" stackId="1" startPc="268438305"/>
-        <entry arg="true" endPc="268438491" name="index" stackId="1" startPc="268438341"/>
-        <entry arg="true" endPc="268438491" name="selected" stackId="2" startPc="268438341"/>
-        <entry arg="true" endPc="268438557" name="suma" stackId="1" startPc="268438514"/>
-        <entry arg="true" endPc="268438557" name="callback" stackId="2" startPc="268438514"/>
-        <entry arg="true" endPc="268438623" name="suma" stackId="1" startPc="268438580"/>
-        <entry arg="true" endPc="268438623" name="callback" stackId="2" startPc="268438580"/>
-        <entry endPc="268438821" name="time" stackId="2" startPc="268438650"/>
-        <entry arg="true" endPc="268438822" name="identifier" stackId="1" startPc="268438646"/>
-        <entry arg="true" endPc="268439543" name="info" stackId="1" startPc="268439516"/>
-        <entry endPc="268440230" name="vibrateData" stackId="2" startPc="268440163"/>
-        <entry arg="true" endPc="268440231" name="duration" stackId="1" startPc="268440159"/>
-        <entry arg="true" endPc="268440257" name="tone" stackId="1" startPc="268440231"/>
-        <entry endPc="268440511" name="timerDelegate" stackId="2" startPc="268440369"/>
-        <entry endPc="268440511" name="timerView" stackId="1" startPc="268440369"/>
-        <entry endPc="268441750" name="sumatorioView2" stackId="1" startPc="268441472"/>
-        <entry endPc="268441750" name="sumatorioDelegate2" stackId="2" startPc="268441472"/>
-        <entry arg="true" endPc="268441891" name="mdl" stackId="1" startPc="268441858"/>
-        <entry arg="true" endPc="268441992" name="evt" stackId="1" startPc="268441891"/>
-        <entry arg="true" endPc="268442181" name="mi" stackId="2" startPc="268441992"/>
-        <entry arg="true" endPc="268442181" name="sum" stackId="1" startPc="268441992"/>
-        <entry arg="true" endPc="268442181" name="mil" stackId="4" startPc="268441992"/>
-        <entry arg="true" endPc="268442181" name="se" stackId="3" startPc="268441992"/>
-        <entry arg="true" endPc="268442181" name="toc" stackId="5" startPc="268441992"/>
-        <entry arg="true" endPc="268442625" name="dc" stackId="1" startPc="268442181"/>
-        <entry arg="true" endPc="268442678" name="dc" stackId="1" startPc="268442625"/>
-        <entry arg="true" endPc="268442755" name="dc" stackId="2" startPc="268442678"/>
-        <entry arg="true" endPc="268442755" name="text" stackId="1" startPc="268442678"/>
-        <entry arg="true" endPc="268442832" name="dc" stackId="2" startPc="268442755"/>
-        <entry arg="true" endPc="268442832" name="text" stackId="1" startPc="268442755"/>
-        <entry arg="true" endPc="268442909" name="dc" stackId="2" startPc="268442832"/>
-        <entry arg="true" endPc="268442909" name="text" stackId="1" startPc="268442832"/>
-        <entry arg="true" endPc="268443222" name="mdl" stackId="1" startPc="268443189"/>
-        <entry arg="true" endPc="268443642" name="dc" stackId="1" startPc="268443222"/>
-        <entry arg="true" endPc="268443695" name="dc" stackId="1" startPc="268443642"/>
-        <entry arg="true" endPc="268443772" name="dc" stackId="2" startPc="268443695"/>
-        <entry arg="true" endPc="268443772" name="text" stackId="1" startPc="268443695"/>
-        <entry arg="true" endPc="268443849" name="dc" stackId="2" startPc="268443772"/>
-        <entry arg="true" endPc="268443849" name="text" stackId="1" startPc="268443772"/>
-        <entry arg="true" endPc="268443926" name="dc" stackId="2" startPc="268443849"/>
-        <entry arg="true" endPc="268443926" name="text" stackId="1" startPc="268443849"/>
-        <entry endPc="268444313" name="rez_cmp_local_text_4683856892" stackId="2" startPc="268444096"/>
-        <entry arg="true" endPc="268444314" name="dc" stackId="1" startPc="268444084"/>
+        <entry endPc="268435635" name="time" stackId="2" startPc="268435460"/>
+        <entry arg="true" endPc="268435636" name="identifier" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435847" name="mi" stackId="2" startPc="268435636"/>
+        <entry arg="true" endPc="268435847" name="sum" stackId="1" startPc="268435636"/>
+        <entry arg="true" endPc="268435847" name="mil" stackId="4" startPc="268435636"/>
+        <entry arg="true" endPc="268435847" name="se" stackId="3" startPc="268435636"/>
+        <entry arg="true" endPc="268435847" name="toc" stackId="5" startPc="268435636"/>
+        <entry arg="true" endPc="268436745" name="dc" stackId="1" startPc="268435847"/>
+        <entry arg="true" endPc="268436798" name="dc" stackId="1" startPc="268436745"/>
+        <entry arg="true" endPc="268436875" name="dc" stackId="2" startPc="268436798"/>
+        <entry arg="true" endPc="268436875" name="text" stackId="1" startPc="268436798"/>
+        <entry arg="true" endPc="268436952" name="dc" stackId="2" startPc="268436875"/>
+        <entry arg="true" endPc="268436952" name="text" stackId="1" startPc="268436875"/>
+        <entry arg="true" endPc="268437029" name="dc" stackId="2" startPc="268436952"/>
+        <entry arg="true" endPc="268437029" name="text" stackId="1" startPc="268436952"/>
+        <entry endPc="268437517" name="title" stackId="3" startPc="268437354"/>
+        <entry arg="true" endPc="268437518" name="titleText" stackId="1" startPc="268437350"/>
+        <entry arg="true" endPc="268437518" name="options" stackId="2" startPc="268437350"/>
+        <entry arg="true" endPc="268437578" name="options" stackId="1" startPc="268437518"/>
+        <entry arg="true" endPc="268437631" name="dc" stackId="1" startPc="268437578"/>
+        <entry arg="true" endPc="268437674" name="symbol" stackId="1" startPc="268437631"/>
+        <entry arg="true" endPc="268437674" name="callback" stackId="2" startPc="268437631"/>
+        <entry arg="true" endPc="268437757" name="values" stackId="1" startPc="268437674"/>
+        <entry arg="true" endPc="268437810" name="mdl" stackId="1" startPc="268437767"/>
+        <entry arg="true" endPc="268437810" name="callback" stackId="2" startPc="268437767"/>
+        <entry arg="true" endPc="268438051" name="mdl" stackId="1" startPc="268438018"/>
+        <entry arg="true" endPc="268438152" name="evt" stackId="1" startPc="268438051"/>
+        <entry arg="true" endPc="268438195" name="suma" stackId="1" startPc="268438152"/>
+        <entry arg="true" endPc="268438195" name="callback" stackId="2" startPc="268438152"/>
+        <entry endPc="268438472" name="timerDelegate" stackId="2" startPc="268438330"/>
+        <entry endPc="268438472" name="timerView" stackId="1" startPc="268438330"/>
+        <entry endPc="268439764" name="sumatorioView2" stackId="1" startPc="268439400"/>
+        <entry endPc="268439764" name="sumatorioDelegate2" stackId="2" startPc="268439400"/>
+        <entry arg="true" endPc="268440009" name="mi" stackId="2" startPc="268439872"/>
+        <entry arg="true" endPc="268440009" name="sum" stackId="1" startPc="268439872"/>
+        <entry arg="true" endPc="268440009" name="mil" stackId="4" startPc="268439872"/>
+        <entry arg="true" endPc="268440009" name="se" stackId="3" startPc="268439872"/>
+        <entry arg="true" endPc="268440453" name="dc" stackId="1" startPc="268440009"/>
+        <entry arg="true" endPc="268440506" name="dc" stackId="1" startPc="268440453"/>
+        <entry arg="true" endPc="268440619" name="dc" stackId="2" startPc="268440506"/>
+        <entry arg="true" endPc="268440619" name="text" stackId="1" startPc="268440506"/>
+        <entry arg="true" endPc="268440732" name="dc" stackId="2" startPc="268440619"/>
+        <entry arg="true" endPc="268440732" name="text" stackId="1" startPc="268440619"/>
+        <entry arg="true" endPc="268440809" name="dc" stackId="2" startPc="268440732"/>
+        <entry arg="true" endPc="268440809" name="text" stackId="1" startPc="268440732"/>
+        <entry arg="true" endPc="268441092" name="dc" stackId="1" startPc="268441050"/>
+        <entry endPc="268441319" name="time" stackId="2" startPc="268441148"/>
+        <entry arg="true" endPc="268441320" name="identifier" stackId="1" startPc="268441144"/>
+        <entry arg="true" endPc="268441351" name="toc" stackId="2" startPc="268441320"/>
+        <entry arg="true" endPc="268441351" name="settings2" stackId="1" startPc="268441320"/>
+        <entry arg="true" endPc="268441425" name="mi" stackId="1" startPc="268441372"/>
+        <entry arg="true" endPc="268441425" name="mil" stackId="3" startPc="268441372"/>
+        <entry arg="true" endPc="268441425" name="se" stackId="2" startPc="268441372"/>
+        <entry arg="true" endPc="268441469" name="dc" stackId="1" startPc="268441425"/>
+        <entry arg="true" endPc="268441546" name="dc" stackId="2" startPc="268441469"/>
+        <entry arg="true" endPc="268441546" name="text" stackId="1" startPc="268441469"/>
+        <entry arg="true" endPc="268441675" name="suma" stackId="1" startPc="268441632"/>
+        <entry arg="true" endPc="268441675" name="callback" stackId="2" startPc="268441632"/>
+        <entry endPc="268441850" name="time" stackId="2" startPc="268441679"/>
+        <entry arg="true" endPc="268441851" name="identifier" stackId="1" startPc="268441675"/>
+        <entry arg="true" endPc="268442025" name="optionsArray" stackId="1" startPc="268441992"/>
+        <entry arg="true" endPc="268442061" name="index" stackId="1" startPc="268442025"/>
+        <entry arg="true" endPc="268442211" name="index" stackId="1" startPc="268442061"/>
+        <entry arg="true" endPc="268442211" name="selected" stackId="2" startPc="268442061"/>
+        <entry endPc="268442401" name="title" stackId="3" startPc="268442238"/>
+        <entry arg="true" endPc="268442402" name="titleText" stackId="1" startPc="268442234"/>
+        <entry arg="true" endPc="268442402" name="options" stackId="2" startPc="268442234"/>
+        <entry arg="true" endPc="268442462" name="options" stackId="1" startPc="268442402"/>
+        <entry arg="true" endPc="268442515" name="dc" stackId="1" startPc="268442462"/>
+        <entry arg="true" endPc="268442558" name="symbol" stackId="1" startPc="268442515"/>
+        <entry arg="true" endPc="268442558" name="callback" stackId="2" startPc="268442515"/>
+        <entry arg="true" endPc="268442641" name="values" stackId="1" startPc="268442558"/>
+        <entry arg="true" endPc="268442672" name="settings" stackId="1" startPc="268442651"/>
+        <entry arg="true" endPc="268442705" name="mdl" stackId="1" startPc="268442672"/>
+        <entry arg="true" endPc="268443163" name="dc" stackId="1" startPc="268442705"/>
+        <entry arg="true" endPc="268443216" name="dc" stackId="1" startPc="268443163"/>
+        <entry arg="true" endPc="268443293" name="dc" stackId="2" startPc="268443216"/>
+        <entry arg="true" endPc="268443293" name="text" stackId="1" startPc="268443216"/>
+        <entry arg="true" endPc="268443370" name="dc" stackId="2" startPc="268443293"/>
+        <entry arg="true" endPc="268443370" name="text" stackId="1" startPc="268443293"/>
+        <entry arg="true" endPc="268443447" name="dc" stackId="2" startPc="268443370"/>
+        <entry arg="true" endPc="268443447" name="text" stackId="1" startPc="268443370"/>
+        <entry endPc="268443780" name="time" stackId="2" startPc="268443609"/>
+        <entry arg="true" endPc="268443781" name="identifier" stackId="1" startPc="268443605"/>
+        <entry arg="true" endPc="268444502" name="info" stackId="1" startPc="268444475"/>
+        <entry endPc="268445349" name="foo" stackId="1" startPc="268445310"/>
+        <entry endPc="268445408" name="foo" stackId="2" startPc="268445369"/>
+        <entry endPc="268445467" name="foo" stackId="3" startPc="268445428"/>
+        <entry endPc="268445547" name="foo" stackId="1" startPc="268445491"/>
+        <entry endPc="268445663" name="vibrateData" stackId="2" startPc="268445596"/>
+        <entry arg="true" endPc="268445664" name="duration" stackId="1" startPc="268445592"/>
+        <entry arg="true" endPc="268445690" name="tone" stackId="1" startPc="268445664"/>
+        <entry endPc="268445901" name="rez_cmp_local_text_1753659384" stackId="2" startPc="268445702"/>
+        <entry arg="true" endPc="268445902" name="dc" stackId="1" startPc="268445690"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
@@ -688,126 +759,80 @@
         <dataEntry offset="784" parentId="Rez" symbolId="Layouts" type="module"/>
         <dataEntry offset="823" parentId="Rez" symbolId="JsonData" type="module"/>
         <dataEntry offset="854" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="917" parentId="globals" symbolId="TimerModel" type="class"/>
-        <dataEntry offset="1340" parentId="globals" symbolId="TimerView" type="class"/>
-        <dataEntry offset="1459" parentId="globals" symbolId="SettingPickerDelegate" type="class"/>
-        <dataEntry offset="1554" parentId="globals" symbolId="KayakTimer" type="class"/>
-        <dataEntry offset="1609" parentId="globals" symbolId="SumatorioView" type="class"/>
-        <dataEntry offset="1808" parentId="globals" symbolId="SettingPickerView" type="class"/>
-        <dataEntry offset="1887" parentId="globals" symbolId="finishView" type="class"/>
-        <dataEntry offset="1982" parentId="globals" symbolId="StartView" type="class"/>
-        <dataEntry offset="2093" parentId="globals" symbolId="SumatorioDelegate" type="class"/>
-        <dataEntry offset="2164" parentId="globals" symbolId="SumatorioViewPuertas" type="class"/>
-        <dataEntry offset="2411" parentId="globals" symbolId="SettingPickerViewPuertas" type="class"/>
-        <dataEntry offset="2490" parentId="globals" symbolId="StartDelegate" type="class"/>
-        <dataEntry offset="2561" parentId="globals" symbolId="SumatorioDelegatePuertas" type="class"/>
-        <dataEntry offset="2640" parentId="globals" symbolId="Sumatorio" type="class"/>
-        <dataEntry offset="2695" parentId="globals" symbolId="DoneView" type="class"/>
-        <dataEntry offset="2750" parentId="globals" symbolId="TimerDelegate" type="class"/>
-        <dataEntry offset="2845" parentId="globals" symbolId="DigitFactory" type="class"/>
-        <dataEntry offset="2948" parentId="globals" symbolId="SettingPickerDelegatePuertas" type="class"/>
+        <dataEntry offset="941" parentId="globals" symbolId="TimerModel" type="class"/>
+        <dataEntry offset="1388" parentId="globals" symbolId="TimerView" type="class"/>
+        <dataEntry offset="1507" parentId="globals" symbolId="SettingPickerDelegate" type="class"/>
+        <dataEntry offset="1602" parentId="globals" symbolId="KayakTimer" type="class"/>
+        <dataEntry offset="1657" parentId="globals" symbolId="SumatorioView" type="class"/>
+        <dataEntry offset="1856" parentId="globals" symbolId="SettingPickerView" type="class"/>
+        <dataEntry offset="1935" parentId="globals" symbolId="finishView" type="class"/>
+        <dataEntry offset="2030" parentId="globals" symbolId="StartView" type="class"/>
+        <dataEntry offset="2141" parentId="globals" symbolId="SumatorioDelegate" type="class"/>
+        <dataEntry offset="2212" parentId="globals" symbolId="SumatorioViewPuertas" type="class"/>
+        <dataEntry offset="2483" parentId="globals" symbolId="SettingPickerViewPuertas" type="class"/>
+        <dataEntry offset="2562" parentId="globals" symbolId="StartDelegate" type="class"/>
+        <dataEntry offset="2633" parentId="globals" symbolId="Sumatorio" type="class"/>
+        <dataEntry offset="2688" parentId="globals" symbolId="SumatorioDelegatePuertas" type="class"/>
+        <dataEntry offset="2783" parentId="globals" symbolId="DoneView" type="class"/>
+        <dataEntry offset="2838" parentId="globals" symbolId="TimerDelegate" type="class"/>
+        <dataEntry offset="2933" parentId="globals" symbolId="DigitFactory" type="class"/>
+        <dataEntry offset="3036" parentId="globals" symbolId="SettingPickerDelegatePuertas" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
-        <functionEntry accessMode="public" name="initialize" parent="SumatorioView">
+        <functionEntry accessMode="public" name="postMsg" parent="SumatorioViewPuertas">
+            <param id="identifier"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SumatorioViewPuertas">
             <param id="sum"/>
             <param id="mi"/>
             <param id="se"/>
             <param id="mil"/>
+            <param id="toc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="SumatorioView">
+        <functionEntry accessMode="public" name="onUpdate" parent="SumatorioViewPuertas">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="setupDisplay" parent="SumatorioView">
+        <functionEntry accessMode="public" name="setupDisplay" parent="SumatorioViewPuertas">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="bottomText" parent="SumatorioView">
+        <functionEntry accessMode="public" name="bottomText" parent="SumatorioViewPuertas">
             <param id="text"/>
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="topText" parent="SumatorioView">
+        <functionEntry accessMode="public" name="topText" parent="SumatorioViewPuertas">
             <param id="text"/>
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="largeText" parent="SumatorioView">
+        <functionEntry accessMode="public" name="largeText" parent="SumatorioViewPuertas">
             <param id="text"/>
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="timerString" parent="SumatorioView">
+        <functionEntry accessMode="public" name="timerString" parent="SumatorioViewPuertas">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="timerLastString" parent="SumatorioView">
+        <functionEntry accessMode="public" name="toquesString" parent="SumatorioViewPuertas">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="toquesString" parent="SumatorioView">
+        <functionEntry accessMode="public" name="timerLastString" parent="SumatorioViewPuertas">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="finishView">
-            <param id="mi"/>
-            <param id="se"/>
-            <param id="mil"/>
+        <functionEntry accessMode="public" name="puertocLastString" parent="SumatorioViewPuertas">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="finishView">
-            <param id="dc"/>
+        <functionEntry accessMode="public" name="puertasString" parent="SumatorioViewPuertas">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="largeText" parent="finishView">
-            <param id="text"/>
-            <param id="dc"/>
+        <functionEntry accessMode="public" name="grabarString" parent="SumatorioViewPuertas">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="timerString" parent="finishView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="Sumatorio">
-            <param id="settings"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="DoneView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onLayout" parent="DoneView">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="DoneDelegate">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onBack" parent="DoneDelegate">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="SettingPickerView">
-            <param id="titleText"/>
-            <param id="options"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="createNumberPattern" parent="SettingPickerView">
-            <param id="options"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="SettingPickerView">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="SettingPickerDelegate">
-            <param id="symbol"/>
-            <param id="callback"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onAccept" parent="SettingPickerDelegate">
-            <param id="values"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onCancel" parent="SettingPickerDelegate">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onBack" parent="SettingPickerDelegate">
+        <functionEntry accessMode="public" name="pressString" parent="SumatorioViewPuertas">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="SettingPickerViewPuertas">
@@ -849,6 +874,107 @@
         <functionEntry accessMode="public" name="onBack" parent="TimerDelegate">
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="StartDelegate">
+            <param id="mdl"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="StartDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SumatorioDelegate">
+            <param id="suma"/>
+            <param id="callback"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="SumatorioDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="KayakTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="KayakTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="switchToTimer" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="switchToRoundsSelect" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="addToques" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="switchToGoTimeSelect" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="addPuertas" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="finish" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="StartView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SumatorioView">
+            <param id="sum"/>
+            <param id="mi"/>
+            <param id="se"/>
+            <param id="mil"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="SumatorioView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setupDisplay" parent="SumatorioView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="bottomText" parent="SumatorioView">
+            <param id="text"/>
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="topText" parent="SumatorioView">
+            <param id="text"/>
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="largeText" parent="SumatorioView">
+            <param id="text"/>
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerString" parent="SumatorioView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerLastString" parent="SumatorioView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="toquesString" parent="SumatorioView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DoneView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="DoneView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DoneDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="DoneDelegate">
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="postMsg" parent="SumatorioPuertas">
             <param id="identifier"/>
             <documentation/>
@@ -858,10 +984,40 @@
             <param id="toc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="start" parent="SumatorioPuertas">
+        <functionEntry accessMode="public" name="update" parent="SumatorioPuertas">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="stop" parent="SumatorioPuertas">
+        <functionEntry accessMode="public" name="initialize" parent="finishView">
+            <param id="mi"/>
+            <param id="se"/>
+            <param id="mil"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="finishView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="largeText" parent="finishView">
+            <param id="text"/>
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerString" parent="finishView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SumatorioDelegatePuertas">
+            <param id="suma"/>
+            <param id="callback"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="postMsg" parent="SumatorioDelegatePuertas">
+            <param id="identifier"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="SumatorioDelegatePuertas">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="SumatorioDelegatePuertas">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="DigitFactory">
@@ -880,20 +1036,72 @@
         <functionEntry accessMode="public" name="getSize" parent="DigitFactory">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="SumatorioDelegatePuertas">
-            <param id="suma"/>
+        <functionEntry accessMode="public" name="initialize" parent="SettingPickerView">
+            <param id="titleText"/>
+            <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="createNumberPattern" parent="SettingPickerView">
+            <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="SettingPickerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SettingPickerDelegate">
+            <param id="symbol"/>
             <param id="callback"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onSelect" parent="SumatorioDelegatePuertas">
+        <functionEntry accessMode="public" name="onAccept" parent="SettingPickerDelegate">
+            <param id="values"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="SumatorioDelegate">
-            <param id="suma"/>
-            <param id="callback"/>
+        <functionEntry accessMode="public" name="onCancel" parent="SettingPickerDelegate">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onSelect" parent="SumatorioDelegate">
+        <functionEntry accessMode="public" name="onBack" parent="SettingPickerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Sumatorio">
+            <param id="settings"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TimerView">
+            <param id="mdl"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="TimerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setupDisplay" parent="TimerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="bottomText" parent="TimerView">
+            <param id="text"/>
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="topText" parent="TimerView">
+            <param id="text"/>
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="largeText" parent="TimerView">
+            <param id="text"/>
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerString" parent="TimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerBack" parent="TimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="elapsedTime" parent="TimerView">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="postMsg" parent="TimerModel">
@@ -961,132 +1169,6 @@
         </functionEntry>
         <functionEntry accessMode="public" name="beep" parent="TimerModel">
             <param id="tone"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="KayakTimer">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="getInitialView" parent="KayakTimer">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onShow" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="switchToTimer" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="switchToRoundsSelect" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="addToques" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="switchToGoTimeSelect" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="addPuertas" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="finish" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="getInitialView" parent="StartView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="StartDelegate">
-            <param id="mdl"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onKey" parent="StartDelegate">
-            <param id="evt"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="SumatorioViewPuertas">
-            <param id="sum"/>
-            <param id="mi"/>
-            <param id="se"/>
-            <param id="mil"/>
-            <param id="toc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="SumatorioViewPuertas">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="setupDisplay" parent="SumatorioViewPuertas">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="bottomText" parent="SumatorioViewPuertas">
-            <param id="text"/>
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="topText" parent="SumatorioViewPuertas">
-            <param id="text"/>
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="largeText" parent="SumatorioViewPuertas">
-            <param id="text"/>
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="timerString" parent="SumatorioViewPuertas">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="toquesString" parent="SumatorioViewPuertas">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="timerLastString" parent="SumatorioViewPuertas">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="puertasString" parent="SumatorioViewPuertas">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="grabarString" parent="SumatorioViewPuertas">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="pressString" parent="SumatorioViewPuertas">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="TimerView">
-            <param id="mdl"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="TimerView">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="setupDisplay" parent="TimerView">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="bottomText" parent="TimerView">
-            <param id="text"/>
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="topText" parent="TimerView">
-            <param id="text"/>
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="largeText" parent="TimerView">
-            <param id="text"/>
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="timerString" parent="TimerView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="timerBack" parent="TimerView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="elapsedTime" parent="TimerView">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="DoneLayout" parent="Layouts">

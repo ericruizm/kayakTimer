@@ -65,6 +65,7 @@ class StartView extends Ui.View {
   	sumatorio = new Sumatorio(settings);
   	toques = sumatorio.TOQUES;
   	model.toquesField.setData(toques);
+  	model.toquesTotalesField.setData(toques);
   	sumatorioView = new SumatorioView(sumatorio, min, sec, mili);
   	sumatorioDelegate = new SumatorioDelegate(sumatorio, self.method(:switchToGoTimeSelect));
   	Ui.pushView(sumatorioView, sumatorioDelegate, Ui.SLIDE_IMMEDIATE );
@@ -72,7 +73,7 @@ class StartView extends Ui.View {
   }
   
   function switchToGoTimeSelect(){
-    goTimePicker = new SettingPickerViewPuertas("GATES", [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
+    goTimePicker = new SettingPickerViewPuertas("GATES", [0, 1, 2, 3, 4, 5]);
     goTimePickerDelegate = new SettingPickerDelegatePuertas(:goTime, self.method(:addPuertas));
     Ui.pushView(goTimePicker, goTimePickerDelegate, Ui.SLIDE_IMMEDIATE );
     
@@ -85,6 +86,9 @@ class StartView extends Ui.View {
   	sec = sumatorioView.segundos;
   	mili = sumatorioView.milisegundos;
   	sumatorio2 = new SumatorioPuertas(settings2,toques);
+  	puertas = sumatorio2.PUERTAS;
+  	model.puertasField.setData(puertas);
+  	model.puertasTotalesField.setData(puertas);
   	var sumatorioView2 = new SumatorioViewPuertas(sumatorio2, min, sec, mili, toques);
   	var sumatorioDelegate2 = new SumatorioDelegatePuertas(sumatorio2, self.method(:finish));
   	Ui.pushView(sumatorioView2, sumatorioDelegate2, Ui.SLIDE_IMMEDIATE );
@@ -98,8 +102,6 @@ class StartView extends Ui.View {
   }
   
  
-   
-  
   function getInitialView() {
         return [new StartView()];
     }

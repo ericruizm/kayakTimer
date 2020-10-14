@@ -17,6 +17,8 @@ class SumatorioPuertas{
 	var GRABAR = 0;
 	var toquesField;
 	var puertasField;
+	var seguir = false;
+	
 	
 	function postMsg(identifier){
 	var time = System.getClockTime();
@@ -24,21 +26,17 @@ class SumatorioPuertas{
 		System.println(Lang.format("$1$:$2$:$3$   $4$",[time.hour.format("%2.2d"),time.min.format("%2.2d"),time.sec.format("%2.2d"),identifier]));
 		}
 	}
-	
+  
 	
 	function initialize(settings2,toc){
 		PUERTAS = settings2[:goTime];	
 		TOQUES = toc;
 		
 	}
+
+	function update(){
+		Ui.requestUpdate();
 	
-	function start(){
-		GRABAR = 1;
-	}
-	
-	function stop(){
-		model.stopSensor();
-		model.stopRecording();
 	}
 	
 }
